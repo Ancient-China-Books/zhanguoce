@@ -1,0 +1,3195 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zh">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:c15117f7-8d61-5518-8022-380af14d8d55"/>
+    <meta name="dtb:depth" content="3"/>
+    <meta name="dtb:generator" content="calibre (6.8.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>戰國策</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>卷一・東周策</text>
+      </navLabel>
+      <content src="Text/001.htm"/>
+      <navPoint id="num_2" playOrder="2">
+        <navLabel>
+          <text>秦興師臨周而求九鼎</text>
+        </navLabel>
+        <content src="Text/001.htm"/>
+      </navPoint>
+      <navPoint id="num_3" playOrder="3">
+        <navLabel>
+          <text>秦攻宜陽</text>
+        </navLabel>
+        <content src="Text/002.htm"/>
+      </navPoint>
+      <navPoint id="num_4" playOrder="4">
+        <navLabel>
+          <text>東周與西周戰</text>
+        </navLabel>
+        <content src="Text/003.htm"/>
+      </navPoint>
+      <navPoint id="num_5" playOrder="5">
+        <navLabel>
+          <text>東周與西周爭</text>
+        </navLabel>
+        <content src="Text/004.htm"/>
+      </navPoint>
+      <navPoint id="num_6" playOrder="6">
+        <navLabel>
+          <text>東周欲為稻</text>
+        </navLabel>
+        <content src="Text/005.htm"/>
+      </navPoint>
+      <navPoint id="num_7" playOrder="7">
+        <navLabel>
+          <text>昭獻在陽翟</text>
+        </navLabel>
+        <content src="Text/006.htm"/>
+      </navPoint>
+      <navPoint id="num_8" playOrder="8">
+        <navLabel>
+          <text>秦假道于周以伐韓</text>
+        </navLabel>
+        <content src="Text/007.htm"/>
+      </navPoint>
+      <navPoint id="num_9" playOrder="9">
+        <navLabel>
+          <text>楚攻雍氏</text>
+        </navLabel>
+        <content src="Text/008.htm"/>
+      </navPoint>
+      <navPoint id="num_10" playOrder="10">
+        <navLabel>
+          <text>周最謂石禮</text>
+        </navLabel>
+        <content src="Text/009.htm"/>
+      </navPoint>
+      <navPoint id="num_11" playOrder="11">
+        <navLabel>
+          <text>周相呂倉見客于周君</text>
+        </navLabel>
+        <content src="Text/010.htm"/>
+      </navPoint>
+      <navPoint id="num_12" playOrder="12">
+        <navLabel>
+          <text>周文君免士工師藉</text>
+        </navLabel>
+        <content src="Text/011.htm"/>
+      </navPoint>
+      <navPoint id="num_13" playOrder="13">
+        <navLabel>
+          <text>溫人之周</text>
+        </navLabel>
+        <content src="Text/012.htm"/>
+      </navPoint>
+      <navPoint id="num_14" playOrder="14">
+        <navLabel>
+          <text>或為周最謂金投</text>
+        </navLabel>
+        <content src="Text/013.htm"/>
+      </navPoint>
+      <navPoint id="num_15" playOrder="15">
+        <navLabel>
+          <text>周最謂金投</text>
+        </navLabel>
+        <content src="Text/014.htm"/>
+      </navPoint>
+      <navPoint id="num_16" playOrder="16">
+        <navLabel>
+          <text>石行秦謂大梁造</text>
+        </navLabel>
+        <content src="Text/015.htm"/>
+      </navPoint>
+      <navPoint id="num_17" playOrder="17">
+        <navLabel>
+          <text>謂薛公</text>
+        </navLabel>
+        <content src="Text/016.htm"/>
+      </navPoint>
+      <navPoint id="num_18" playOrder="18">
+        <navLabel>
+          <text>齊聽祝弗</text>
+        </navLabel>
+        <content src="Text/017.htm"/>
+      </navPoint>
+      <navPoint id="num_19" playOrder="19">
+        <navLabel>
+          <text>蘇厲為周最謂蘇秦</text>
+        </navLabel>
+        <content src="Text/018.htm"/>
+      </navPoint>
+      <navPoint id="num_20" playOrder="20">
+        <navLabel>
+          <text>謂周最曰仇赫之相宋</text>
+        </navLabel>
+        <content src="Text/019.htm"/>
+      </navPoint>
+      <navPoint id="num_21" playOrder="21">
+        <navLabel>
+          <text>為周最謂魏王</text>
+        </navLabel>
+        <content src="Text/020.htm"/>
+      </navPoint>
+      <navPoint id="num_22" playOrder="22">
+        <navLabel>
+          <text>謂周最曰魏王以國與先生</text>
+        </navLabel>
+        <content src="Text/021.htm"/>
+      </navPoint>
+      <navPoint id="num_23" playOrder="23">
+        <navLabel>
+          <text>趙取周之祭地</text>
+        </navLabel>
+        <content src="Text/022.htm"/>
+      </navPoint>
+      <navPoint id="num_24" playOrder="24">
+        <navLabel>
+          <text>杜赫欲重景翠于周</text>
+        </navLabel>
+        <content src="Text/023.htm"/>
+      </navPoint>
+      <navPoint id="num_25" playOrder="25">
+        <navLabel>
+          <text>周共太子死</text>
+        </navLabel>
+        <content src="Text/024.htm"/>
+      </navPoint>
+      <navPoint id="num_26" playOrder="26">
+        <navLabel>
+          <text>三國隘秦</text>
+        </navLabel>
+        <content src="Text/025.htm"/>
+      </navPoint>
+      <navPoint id="num_27" playOrder="27">
+        <navLabel>
+          <text>昌他亡西周</text>
+        </navLabel>
+        <content src="Text/026.htm"/>
+      </navPoint>
+      <navPoint id="num_28" playOrder="28">
+        <navLabel>
+          <text>昭翦與東周惡</text>
+        </navLabel>
+        <content src="Text/027.htm"/>
+      </navPoint>
+      <navPoint id="num_29" playOrder="29">
+        <navLabel>
+          <text>嚴氏為賊</text>
+        </navLabel>
+        <content src="Text/028.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_30" playOrder="30">
+      <navLabel>
+        <text>卷二・西周策</text>
+      </navLabel>
+      <content src="Text/029.htm"/>
+      <navPoint id="num_31" playOrder="31">
+        <navLabel>
+          <text>薛公以齊為韓魏攻楚</text>
+        </navLabel>
+        <content src="Text/029.htm"/>
+      </navPoint>
+      <navPoint id="num_32" playOrder="32">
+        <navLabel>
+          <text>秦攻魏將犀武軍于伊闕</text>
+        </navLabel>
+        <content src="Text/030.htm"/>
+      </navPoint>
+      <navPoint id="num_33" playOrder="33">
+        <navLabel>
+          <text>秦令樗里疾以車百乘入周</text>
+        </navLabel>
+        <content src="Text/031.htm"/>
+      </navPoint>
+      <navPoint id="num_34" playOrder="34">
+        <navLabel>
+          <text>雍氏之役</text>
+        </navLabel>
+        <content src="Text/032.htm"/>
+      </navPoint>
+      <navPoint id="num_35" playOrder="35">
+        <navLabel>
+          <text>周君之秦</text>
+        </navLabel>
+        <content src="Text/033.htm"/>
+      </navPoint>
+      <navPoint id="num_36" playOrder="36">
+        <navLabel>
+          <text>蘇厲謂周君</text>
+        </navLabel>
+        <content src="Text/034.htm"/>
+      </navPoint>
+      <navPoint id="num_37" playOrder="37">
+        <navLabel>
+          <text>楚兵在山南</text>
+        </navLabel>
+        <content src="Text/035.htm"/>
+      </navPoint>
+      <navPoint id="num_38" playOrder="38">
+        <navLabel>
+          <text>楚請道于二周之間</text>
+        </navLabel>
+        <content src="Text/036.htm"/>
+      </navPoint>
+      <navPoint id="num_39" playOrder="39">
+        <navLabel>
+          <text>司寇布為周最謂周君</text>
+        </navLabel>
+        <content src="Text/037.htm"/>
+      </navPoint>
+      <navPoint id="num_40" playOrder="40">
+        <navLabel>
+          <text>秦召周君</text>
+        </navLabel>
+        <content src="Text/038.htm"/>
+      </navPoint>
+      <navPoint id="num_41" playOrder="41">
+        <navLabel>
+          <text>犀武敗于伊闕</text>
+        </navLabel>
+        <content src="Text/039.htm"/>
+      </navPoint>
+      <navPoint id="num_42" playOrder="42">
+        <navLabel>
+          <text>韓魏易地</text>
+        </navLabel>
+        <content src="Text/040.htm"/>
+      </navPoint>
+      <navPoint id="num_43" playOrder="43">
+        <navLabel>
+          <text>秦欲攻周</text>
+        </navLabel>
+        <content src="Text/041.htm"/>
+      </navPoint>
+      <navPoint id="num_44" playOrder="44">
+        <navLabel>
+          <text>宮他謂周君</text>
+        </navLabel>
+        <content src="Text/042.htm"/>
+      </navPoint>
+      <navPoint id="num_45" playOrder="45">
+        <navLabel>
+          <text>謂齊王</text>
+        </navLabel>
+        <content src="Text/043.htm"/>
+      </navPoint>
+      <navPoint id="num_46" playOrder="46">
+        <navLabel>
+          <text>三國攻秦反</text>
+        </navLabel>
+        <content src="Text/044.htm"/>
+      </navPoint>
+      <navPoint id="num_47" playOrder="47">
+        <navLabel>
+          <text>犀武敗</text>
+        </navLabel>
+        <content src="Text/045.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_48" playOrder="48">
+      <navLabel>
+        <text>卷三・秦策一</text>
+      </navLabel>
+      <content src="Text/046.htm"/>
+      <navPoint id="num_49" playOrder="49">
+        <navLabel>
+          <text>衞鞅亡魏入秦</text>
+        </navLabel>
+        <content src="Text/046.htm"/>
+      </navPoint>
+      <navPoint id="num_50" playOrder="50">
+        <navLabel>
+          <text>蘇秦始將連橫</text>
+        </navLabel>
+        <content src="Text/047.htm"/>
+      </navPoint>
+      <navPoint id="num_51" playOrder="51">
+        <navLabel>
+          <text>秦惠王謂寒泉子</text>
+        </navLabel>
+        <content src="Text/048.htm"/>
+      </navPoint>
+      <navPoint id="num_52" playOrder="52">
+        <navLabel>
+          <text>泠向謂秦王</text>
+        </navLabel>
+        <content src="Text/049.htm"/>
+      </navPoint>
+      <navPoint id="num_53" playOrder="53">
+        <navLabel>
+          <text>張儀說秦王</text>
+        </navLabel>
+        <content src="Text/050.htm"/>
+      </navPoint>
+      <navPoint id="num_54" playOrder="54">
+        <navLabel>
+          <text>張儀欲假秦兵以救魏</text>
+        </navLabel>
+        <content src="Text/051.htm"/>
+      </navPoint>
+      <navPoint id="num_55" playOrder="55">
+        <navLabel>
+          <text>司馬錯與張儀爭論于秦惠王前</text>
+        </navLabel>
+        <content src="Text/052.htm"/>
+      </navPoint>
+      <navPoint id="num_56" playOrder="56">
+        <navLabel>
+          <text>張儀之殘樗里疾</text>
+        </navLabel>
+        <content src="Text/053.htm"/>
+      </navPoint>
+      <navPoint id="num_57" playOrder="57">
+        <navLabel>
+          <text>張儀欲以漢中與楚</text>
+        </navLabel>
+        <content src="Text/054.htm"/>
+      </navPoint>
+      <navPoint id="num_58" playOrder="58">
+        <navLabel>
+          <text>楚攻魏張儀謂秦王</text>
+        </navLabel>
+        <content src="Text/055.htm"/>
+      </navPoint>
+      <navPoint id="num_59" playOrder="59">
+        <navLabel>
+          <text>田莘之為陳軫說秦惠王</text>
+        </navLabel>
+        <content src="Text/056.htm"/>
+      </navPoint>
+      <navPoint id="num_60" playOrder="60">
+        <navLabel>
+          <text>張儀又惡陳軫于秦王</text>
+        </navLabel>
+        <content src="Text/057.htm"/>
+      </navPoint>
+      <navPoint id="num_61" playOrder="61">
+        <navLabel>
+          <text>陳軫去楚之秦</text>
+        </navLabel>
+        <content src="Text/058.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_62" playOrder="62">
+      <navLabel>
+        <text>卷四・秦策二</text>
+      </navLabel>
+      <content src="Text/059.htm"/>
+      <navPoint id="num_63" playOrder="63">
+        <navLabel>
+          <text>齊助楚攻秦</text>
+        </navLabel>
+        <content src="Text/059.htm"/>
+      </navPoint>
+      <navPoint id="num_64" playOrder="64">
+        <navLabel>
+          <text>楚絕齊齊舉兵伐楚</text>
+        </navLabel>
+        <content src="Text/060.htm"/>
+      </navPoint>
+      <navPoint id="num_65" playOrder="65">
+        <navLabel>
+          <text>秦惠王死公孫衍欲窮張儀</text>
+        </navLabel>
+        <content src="Text/061.htm"/>
+      </navPoint>
+      <navPoint id="num_66" playOrder="66">
+        <navLabel>
+          <text>義渠君之魏</text>
+        </navLabel>
+        <content src="Text/062.htm"/>
+      </navPoint>
+      <navPoint id="num_67" playOrder="67">
+        <navLabel>
+          <text>醫扁鵲見秦武王</text>
+        </navLabel>
+        <content src="Text/063.htm"/>
+      </navPoint>
+      <navPoint id="num_68" playOrder="68">
+        <navLabel>
+          <text>秦武王謂甘茂</text>
+        </navLabel>
+        <content src="Text/064.htm"/>
+      </navPoint>
+      <navPoint id="num_69" playOrder="69">
+        <navLabel>
+          <text>宜陽之役馮章謂秦王</text>
+        </navLabel>
+        <content src="Text/065.htm"/>
+      </navPoint>
+      <navPoint id="num_70" playOrder="70">
+        <navLabel>
+          <text>甘茂攻宜陽</text>
+        </navLabel>
+        <content src="Text/066.htm"/>
+      </navPoint>
+      <navPoint id="num_71" playOrder="71">
+        <navLabel>
+          <text>宜陽未得</text>
+        </navLabel>
+        <content src="Text/067.htm"/>
+      </navPoint>
+      <navPoint id="num_72" playOrder="72">
+        <navLabel>
+          <text>宜陽之役楚畔秦而合于韓</text>
+        </navLabel>
+        <content src="Text/068.htm"/>
+      </navPoint>
+      <navPoint id="num_73" playOrder="73">
+        <navLabel>
+          <text>秦王謂甘茂</text>
+        </navLabel>
+        <content src="Text/069.htm"/>
+      </navPoint>
+      <navPoint id="num_74" playOrder="74">
+        <navLabel>
+          <text>甘茂亡秦且之齊</text>
+        </navLabel>
+        <content src="Text/070.htm"/>
+      </navPoint>
+      <navPoint id="num_75" playOrder="75">
+        <navLabel>
+          <text>甘茂相秦</text>
+        </navLabel>
+        <content src="Text/071.htm"/>
+      </navPoint>
+      <navPoint id="num_76" playOrder="76">
+        <navLabel>
+          <text>甘茂約秦魏而攻楚</text>
+        </navLabel>
+        <content src="Text/072.htm"/>
+      </navPoint>
+      <navPoint id="num_77" playOrder="77">
+        <navLabel>
+          <text>陘山之事</text>
+        </navLabel>
+        <content src="Text/073.htm"/>
+      </navPoint>
+      <navPoint id="num_78" playOrder="78">
+        <navLabel>
+          <text>秦宣太后愛魏醜夫</text>
+        </navLabel>
+        <content src="Text/074.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_79" playOrder="79">
+      <navLabel>
+        <text>卷五・秦策三</text>
+      </navLabel>
+      <content src="Text/075.htm"/>
+      <navPoint id="num_80" playOrder="80">
+        <navLabel>
+          <text>薛公為魏謂魏冉</text>
+        </navLabel>
+        <content src="Text/075.htm"/>
+      </navPoint>
+      <navPoint id="num_81" playOrder="81">
+        <navLabel>
+          <text>秦客卿造謂穰侯</text>
+        </navLabel>
+        <content src="Text/076.htm"/>
+      </navPoint>
+      <navPoint id="num_82" playOrder="82">
+        <navLabel>
+          <text>為魏謂魏冉</text>
+        </navLabel>
+        <content src="Text/077.htm"/>
+      </navPoint>
+      <navPoint id="num_83" playOrder="83">
+        <navLabel>
+          <text>謂魏冉曰和不成</text>
+        </navLabel>
+        <content src="Text/078.htm"/>
+      </navPoint>
+      <navPoint id="num_84" playOrder="84">
+        <navLabel>
+          <text>謂穰侯</text>
+        </navLabel>
+        <content src="Text/079.htm"/>
+      </navPoint>
+      <navPoint id="num_85" playOrder="85">
+        <navLabel>
+          <text>謂魏冉曰楚破秦</text>
+        </navLabel>
+        <content src="Text/080.htm"/>
+      </navPoint>
+      <navPoint id="num_86" playOrder="86">
+        <navLabel>
+          <text>五國罷成睪</text>
+        </navLabel>
+        <content src="Text/081.htm"/>
+      </navPoint>
+      <navPoint id="num_87" playOrder="87">
+        <navLabel>
+          <text>范子因王稽入秦</text>
+        </navLabel>
+        <content src="Text/082.htm"/>
+      </navPoint>
+      <navPoint id="num_88" playOrder="88">
+        <navLabel>
+          <text>范雎至秦</text>
+        </navLabel>
+        <content src="Text/083.htm"/>
+      </navPoint>
+      <navPoint id="num_89" playOrder="89">
+        <navLabel>
+          <text>應侯謂昭王</text>
+        </navLabel>
+        <content src="Text/084.htm"/>
+      </navPoint>
+      <navPoint id="num_90" playOrder="90">
+        <navLabel>
+          <text>秦攻韓圍陘</text>
+        </navLabel>
+        <content src="Text/085.htm"/>
+      </navPoint>
+      <navPoint id="num_91" playOrder="91">
+        <navLabel>
+          <text>應侯曰鄭人謂玉未理者璞</text>
+        </navLabel>
+        <content src="Text/086.htm"/>
+      </navPoint>
+      <navPoint id="num_92" playOrder="92">
+        <navLabel>
+          <text>天下之士合從相聚于趙</text>
+        </navLabel>
+        <content src="Text/087.htm"/>
+      </navPoint>
+      <navPoint id="num_93" playOrder="93">
+        <navLabel>
+          <text>謂應侯曰君禽馬服乎</text>
+        </navLabel>
+        <content src="Text/088.htm"/>
+      </navPoint>
+      <navPoint id="num_94" playOrder="94">
+        <navLabel>
+          <text>應侯失韓之汝南</text>
+        </navLabel>
+        <content src="Text/089.htm"/>
+      </navPoint>
+      <navPoint id="num_95" playOrder="95">
+        <navLabel>
+          <text>秦攻邯鄲</text>
+        </navLabel>
+        <content src="Text/090.htm"/>
+      </navPoint>
+      <navPoint id="num_96" playOrder="96">
+        <navLabel>
+          <text>蔡澤見逐于趙</text>
+        </navLabel>
+        <content src="Text/091.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_97" playOrder="97">
+      <navLabel>
+        <text>卷六・秦策四</text>
+      </navLabel>
+      <content src="Text/092.htm"/>
+      <navPoint id="num_98" playOrder="98">
+        <navLabel>
+          <text>秦取楚漢中</text>
+        </navLabel>
+        <content src="Text/092.htm"/>
+      </navPoint>
+      <navPoint id="num_99" playOrder="99">
+        <navLabel>
+          <text>薛公入魏而出齊女</text>
+        </navLabel>
+        <content src="Text/093.htm"/>
+      </navPoint>
+      <navPoint id="num_100" playOrder="100">
+        <navLabel>
+          <text>三國攻秦入函谷</text>
+        </navLabel>
+        <content src="Text/094.htm"/>
+      </navPoint>
+      <navPoint id="num_101" playOrder="101">
+        <navLabel>
+          <text>秦昭王謂左右</text>
+        </navLabel>
+        <content src="Text/095.htm"/>
+      </navPoint>
+      <navPoint id="num_102" playOrder="102">
+        <navLabel>
+          <text>楚魏戰于陘山</text>
+        </navLabel>
+        <content src="Text/096.htm"/>
+      </navPoint>
+      <navPoint id="num_103" playOrder="103">
+        <navLabel>
+          <text>楚使者景鯉在秦</text>
+        </navLabel>
+        <content src="Text/097.htm"/>
+      </navPoint>
+      <navPoint id="num_104" playOrder="104">
+        <navLabel>
+          <text>楚王使景鯉如秦</text>
+        </navLabel>
+        <content src="Text/098.htm"/>
+      </navPoint>
+      <navPoint id="num_105" playOrder="105">
+        <navLabel>
+          <text>秦王欲見頓弱</text>
+        </navLabel>
+        <content src="Text/099.htm"/>
+      </navPoint>
+      <navPoint id="num_106" playOrder="106">
+        <navLabel>
+          <text>頃襄王二十年</text>
+        </navLabel>
+        <content src="Text/100.htm"/>
+      </navPoint>
+      <navPoint id="num_107" playOrder="107">
+        <navLabel>
+          <text>或為六國說秦王</text>
+        </navLabel>
+        <content src="Text/101.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_108" playOrder="108">
+      <navLabel>
+        <text>卷七・秦策五</text>
+      </navLabel>
+      <content src="Text/102.htm"/>
+      <navPoint id="num_109" playOrder="109">
+        <navLabel>
+          <text>謂秦王</text>
+        </navLabel>
+        <content src="Text/102.htm"/>
+      </navPoint>
+      <navPoint id="num_110" playOrder="110">
+        <navLabel>
+          <text>秦王與中期爭論</text>
+        </navLabel>
+        <content src="Text/103.htm"/>
+      </navPoint>
+      <navPoint id="num_111" playOrder="111">
+        <navLabel>
+          <text>獻則謂公孫消</text>
+        </navLabel>
+        <content src="Text/104.htm"/>
+      </navPoint>
+      <navPoint id="num_112" playOrder="112">
+        <navLabel>
+          <text>樓梧約秦魏</text>
+        </navLabel>
+        <content src="Text/105.htm"/>
+      </navPoint>
+      <navPoint id="num_113" playOrder="113">
+        <navLabel>
+          <text>濮陽人呂不韋賈于邯鄲</text>
+        </navLabel>
+        <content src="Text/106.htm"/>
+      </navPoint>
+      <navPoint id="num_114" playOrder="114">
+        <navLabel>
+          <text>文信侯欲攻趙以廣河間</text>
+        </navLabel>
+        <content src="Text/107.htm"/>
+      </navPoint>
+      <navPoint id="num_115" playOrder="115">
+        <navLabel>
+          <text>文信侯出走</text>
+        </navLabel>
+        <content src="Text/108.htm"/>
+      </navPoint>
+      <navPoint id="num_116" playOrder="116">
+        <navLabel>
+          <text>四國為一將以攻秦</text>
+        </navLabel>
+        <content src="Text/109.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_117" playOrder="117">
+      <navLabel>
+        <text>卷八・齊策一</text>
+      </navLabel>
+      <content src="Text/110.htm"/>
+      <navPoint id="num_118" playOrder="118">
+        <navLabel>
+          <text>楚威王戰勝于徐州</text>
+        </navLabel>
+        <content src="Text/110.htm"/>
+      </navPoint>
+      <navPoint id="num_119" playOrder="119">
+        <navLabel>
+          <text>齊將封田嬰于薛</text>
+        </navLabel>
+        <content src="Text/111.htm"/>
+      </navPoint>
+      <navPoint id="num_120" playOrder="120">
+        <navLabel>
+          <text>靖郭君將城薛</text>
+        </navLabel>
+        <content src="Text/112.htm"/>
+      </navPoint>
+      <navPoint id="num_121" playOrder="121">
+        <navLabel>
+          <text>靖郭君謂齊王</text>
+        </navLabel>
+        <content src="Text/113.htm"/>
+      </navPoint>
+      <navPoint id="num_122" playOrder="122">
+        <navLabel>
+          <text>靖郭君善齊貌辨</text>
+        </navLabel>
+        <content src="Text/114.htm"/>
+      </navPoint>
+      <navPoint id="num_123" playOrder="123">
+        <navLabel>
+          <text>邯鄲之難</text>
+        </navLabel>
+        <content src="Text/115.htm"/>
+      </navPoint>
+      <navPoint id="num_124" playOrder="124">
+        <navLabel>
+          <text>南梁之難</text>
+        </navLabel>
+        <content src="Text/116.htm"/>
+      </navPoint>
+      <navPoint id="num_125" playOrder="125">
+        <navLabel>
+          <text>成侯鄒忌為齊相</text>
+        </navLabel>
+        <content src="Text/117.htm"/>
+      </navPoint>
+      <navPoint id="num_126" playOrder="126">
+        <navLabel>
+          <text>田忌為齊將</text>
+        </navLabel>
+        <content src="Text/118.htm"/>
+      </navPoint>
+      <navPoint id="num_127" playOrder="127">
+        <navLabel>
+          <text>田忌亡齊而之楚</text>
+        </navLabel>
+        <content src="Text/119.htm"/>
+      </navPoint>
+      <navPoint id="num_128" playOrder="128">
+        <navLabel>
+          <text>鄒忌事宣王</text>
+        </navLabel>
+        <content src="Text/120.htm"/>
+      </navPoint>
+      <navPoint id="num_129" playOrder="129">
+        <navLabel>
+          <text>鄒忌修八尺有餘</text>
+        </navLabel>
+        <content src="Text/121.htm"/>
+      </navPoint>
+      <navPoint id="num_130" playOrder="130">
+        <navLabel>
+          <text>秦假道韓魏以攻齊</text>
+        </navLabel>
+        <content src="Text/122.htm"/>
+      </navPoint>
+      <navPoint id="num_131" playOrder="131">
+        <navLabel>
+          <text>楚將伐齊</text>
+        </navLabel>
+        <content src="Text/123.htm"/>
+      </navPoint>
+      <navPoint id="num_132" playOrder="132">
+        <navLabel>
+          <text>秦伐魏</text>
+        </navLabel>
+        <content src="Text/124.htm"/>
+      </navPoint>
+      <navPoint id="num_133" playOrder="133">
+        <navLabel>
+          <text>蘇秦為趙合從說齊宣王</text>
+        </navLabel>
+        <content src="Text/125.htm"/>
+      </navPoint>
+      <navPoint id="num_134" playOrder="134">
+        <navLabel>
+          <text>張儀為秦連橫說齊王</text>
+        </navLabel>
+        <content src="Text/126.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_135" playOrder="135">
+      <navLabel>
+        <text>卷九・齊策二</text>
+      </navLabel>
+      <content src="Text/127.htm"/>
+      <navPoint id="num_136" playOrder="136">
+        <navLabel>
+          <text>韓齊為與國</text>
+        </navLabel>
+        <content src="Text/127.htm"/>
+      </navPoint>
+      <navPoint id="num_137" playOrder="137">
+        <navLabel>
+          <text>張儀事秦惠王</text>
+        </navLabel>
+        <content src="Text/128.htm"/>
+      </navPoint>
+      <navPoint id="num_138" playOrder="138">
+        <navLabel>
+          <text>犀首以梁為齊戰于承匡而不勝</text>
+        </navLabel>
+        <content src="Text/129.htm"/>
+      </navPoint>
+      <navPoint id="num_139" playOrder="139">
+        <navLabel>
+          <text>昭陽為楚伐魏</text>
+        </navLabel>
+        <content src="Text/130.htm"/>
+      </navPoint>
+      <navPoint id="num_140" playOrder="140">
+        <navLabel>
+          <text>秦攻趙</text>
+        </navLabel>
+        <content src="Text/131.htm"/>
+      </navPoint>
+      <navPoint id="num_141" playOrder="141">
+        <navLabel>
+          <text>權之難齊燕戰</text>
+        </navLabel>
+        <content src="Text/132.htm"/>
+      </navPoint>
+      <navPoint id="num_142" playOrder="142">
+        <navLabel>
+          <text>秦攻趙長平</text>
+        </navLabel>
+        <content src="Text/133.htm"/>
+      </navPoint>
+      <navPoint id="num_143" playOrder="143">
+        <navLabel>
+          <text>或謂齊王</text>
+        </navLabel>
+        <content src="Text/134.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_144" playOrder="144">
+      <navLabel>
+        <text>卷十・齊策三</text>
+      </navLabel>
+      <content src="Text/135.htm"/>
+      <navPoint id="num_145" playOrder="145">
+        <navLabel>
+          <text>楚王死</text>
+        </navLabel>
+        <content src="Text/135.htm"/>
+      </navPoint>
+      <navPoint id="num_146" playOrder="146">
+        <navLabel>
+          <text>齊王夫人死</text>
+        </navLabel>
+        <content src="Text/136.htm"/>
+      </navPoint>
+      <navPoint id="num_147" playOrder="147">
+        <navLabel>
+          <text>孟嘗君將入秦</text>
+        </navLabel>
+        <content src="Text/137.htm"/>
+      </navPoint>
+      <navPoint id="num_148" playOrder="148">
+        <navLabel>
+          <text>孟嘗君在薛</text>
+        </navLabel>
+        <content src="Text/138.htm"/>
+      </navPoint>
+      <navPoint id="num_149" playOrder="149">
+        <navLabel>
+          <text>孟嘗君奉夏侯章</text>
+        </navLabel>
+        <content src="Text/139.htm"/>
+      </navPoint>
+      <navPoint id="num_150" playOrder="150">
+        <navLabel>
+          <text>孟嘗君讌坐</text>
+        </navLabel>
+        <content src="Text/140.htm"/>
+      </navPoint>
+      <navPoint id="num_151" playOrder="151">
+        <navLabel>
+          <text>孟嘗君舍人有與君之夫人相愛者</text>
+        </navLabel>
+        <content src="Text/141.htm"/>
+      </navPoint>
+      <navPoint id="num_152" playOrder="152">
+        <navLabel>
+          <text>孟嘗君有舍人而弗悅</text>
+        </navLabel>
+        <content src="Text/142.htm"/>
+      </navPoint>
+      <navPoint id="num_153" playOrder="153">
+        <navLabel>
+          <text>孟嘗君出行國至楚</text>
+        </navLabel>
+        <content src="Text/143.htm"/>
+      </navPoint>
+      <navPoint id="num_154" playOrder="154">
+        <navLabel>
+          <text>淳于髠一日而見七人于宣王</text>
+        </navLabel>
+        <content src="Text/144.htm"/>
+      </navPoint>
+      <navPoint id="num_155" playOrder="155">
+        <navLabel>
+          <text>齊欲伐魏</text>
+        </navLabel>
+        <content src="Text/145.htm"/>
+      </navPoint>
+      <navPoint id="num_156" playOrder="156">
+        <navLabel>
+          <text>國子曰秦破馬服君之師</text>
+        </navLabel>
+        <content src="Text/146.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_157" playOrder="157">
+      <navLabel>
+        <text>卷十一・齊策四</text>
+      </navLabel>
+      <content src="Text/147.htm"/>
+      <navPoint id="num_158" playOrder="158">
+        <navLabel>
+          <text>齊人有馮諼者</text>
+        </navLabel>
+        <content src="Text/147.htm"/>
+      </navPoint>
+      <navPoint id="num_159" playOrder="159">
+        <navLabel>
+          <text>孟嘗君為從</text>
+        </navLabel>
+        <content src="Text/148.htm"/>
+      </navPoint>
+      <navPoint id="num_160" playOrder="160">
+        <navLabel>
+          <text>魯仲連謂孟嘗</text>
+        </navLabel>
+        <content src="Text/149.htm"/>
+      </navPoint>
+      <navPoint id="num_161" playOrder="161">
+        <navLabel>
+          <text>孟嘗君逐于齊而復反</text>
+        </navLabel>
+        <content src="Text/150.htm"/>
+      </navPoint>
+      <navPoint id="num_162" playOrder="162">
+        <navLabel>
+          <text>齊宣王見顏斶</text>
+        </navLabel>
+        <content src="Text/151.htm"/>
+      </navPoint>
+      <navPoint id="num_163" playOrder="163">
+        <navLabel>
+          <text>先生王斗造門而欲見齊宣王</text>
+        </navLabel>
+        <content src="Text/152.htm"/>
+      </navPoint>
+      <navPoint id="num_164" playOrder="164">
+        <navLabel>
+          <text>齊王使使者問趙威后</text>
+        </navLabel>
+        <content src="Text/153.htm"/>
+      </navPoint>
+      <navPoint id="num_165" playOrder="165">
+        <navLabel>
+          <text>齊人見田駢</text>
+        </navLabel>
+        <content src="Text/154.htm"/>
+      </navPoint>
+      <navPoint id="num_166" playOrder="166">
+        <navLabel>
+          <text>管燕得罪齊王</text>
+        </navLabel>
+        <content src="Text/155.htm"/>
+      </navPoint>
+      <navPoint id="num_167" playOrder="167">
+        <navLabel>
+          <text>蘇秦自燕之齊</text>
+        </navLabel>
+        <content src="Text/156.htm"/>
+      </navPoint>
+      <navPoint id="num_168" playOrder="168">
+        <navLabel>
+          <text>蘇秦謂齊王</text>
+        </navLabel>
+        <content src="Text/157.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_169" playOrder="169">
+      <navLabel>
+        <text>卷十二・齊策五</text>
+      </navLabel>
+      <content src="Text/158.htm"/>
+      <navPoint id="num_170" playOrder="170">
+        <navLabel>
+          <text>蘇秦說齊閔王</text>
+        </navLabel>
+        <content src="Text/158.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_171" playOrder="171">
+      <navLabel>
+        <text>卷十三・齊策六</text>
+      </navLabel>
+      <content src="Text/159.htm"/>
+      <navPoint id="num_172" playOrder="172">
+        <navLabel>
+          <text>齊負郭之民有狐咺者</text>
+        </navLabel>
+        <content src="Text/159.htm"/>
+      </navPoint>
+      <navPoint id="num_173" playOrder="173">
+        <navLabel>
+          <text>王孫賈年十五事閔王</text>
+        </navLabel>
+        <content src="Text/160.htm"/>
+      </navPoint>
+      <navPoint id="num_174" playOrder="174">
+        <navLabel>
+          <text>燕攻齊取七十餘城</text>
+        </navLabel>
+        <content src="Text/161.htm"/>
+      </navPoint>
+      <navPoint id="num_175" playOrder="175">
+        <navLabel>
+          <text>燕攻齊齊破</text>
+        </navLabel>
+        <content src="Text/162.htm"/>
+      </navPoint>
+      <navPoint id="num_176" playOrder="176">
+        <navLabel>
+          <text>貂勃常惡田單</text>
+        </navLabel>
+        <content src="Text/163.htm"/>
+      </navPoint>
+      <navPoint id="num_177" playOrder="177">
+        <navLabel>
+          <text>田單將攻狄</text>
+        </navLabel>
+        <content src="Text/164.htm"/>
+      </navPoint>
+      <navPoint id="num_178" playOrder="178">
+        <navLabel>
+          <text>濮上之事</text>
+        </navLabel>
+        <content src="Text/165.htm"/>
+      </navPoint>
+      <navPoint id="num_179" playOrder="179">
+        <navLabel>
+          <text>齊閔王之遇殺</text>
+        </navLabel>
+        <content src="Text/166.htm"/>
+      </navPoint>
+      <navPoint id="num_180" playOrder="180">
+        <navLabel>
+          <text>齊王建入朝于秦</text>
+        </navLabel>
+        <content src="Text/167.htm"/>
+      </navPoint>
+      <navPoint id="num_181" playOrder="181">
+        <navLabel>
+          <text>齊以淖君之亂</text>
+        </navLabel>
+        <content src="Text/168.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_182" playOrder="182">
+      <navLabel>
+        <text>卷十四・楚策一</text>
+      </navLabel>
+      <content src="Text/169.htm"/>
+      <navPoint id="num_183" playOrder="183">
+        <navLabel>
+          <text>齊楚構難</text>
+        </navLabel>
+        <content src="Text/169.htm"/>
+      </navPoint>
+      <navPoint id="num_184" playOrder="184">
+        <navLabel>
+          <text>五國約以伐秦</text>
+        </navLabel>
+        <content src="Text/170.htm"/>
+      </navPoint>
+      <navPoint id="num_185" playOrder="185">
+        <navLabel>
+          <text>荊宣王問羣臣</text>
+        </navLabel>
+        <content src="Text/171.htm"/>
+      </navPoint>
+      <navPoint id="num_186" playOrder="186">
+        <navLabel>
+          <text>昭奚恤與彭城君議于王前</text>
+        </navLabel>
+        <content src="Text/172.htm"/>
+      </navPoint>
+      <navPoint id="num_187" playOrder="187">
+        <navLabel>
+          <text>邯鄲之難</text>
+        </navLabel>
+        <content src="Text/173.htm"/>
+      </navPoint>
+      <navPoint id="num_188" playOrder="188">
+        <navLabel>
+          <text>江乙欲惡昭奚恤于楚王</text>
+        </navLabel>
+        <content src="Text/174.htm"/>
+      </navPoint>
+      <navPoint id="num_189" playOrder="189">
+        <navLabel>
+          <text>魏氏惡昭奚恤于楚王</text>
+        </navLabel>
+        <content src="Text/175.htm"/>
+      </navPoint>
+      <navPoint id="num_190" playOrder="190">
+        <navLabel>
+          <text>江乙惡昭奚恤</text>
+        </navLabel>
+        <content src="Text/176.htm"/>
+      </navPoint>
+      <navPoint id="num_191" playOrder="191">
+        <navLabel>
+          <text>江乙欲惡昭奚恤于楚</text>
+        </navLabel>
+        <content src="Text/177.htm"/>
+      </navPoint>
+      <navPoint id="num_192" playOrder="192">
+        <navLabel>
+          <text>江乙說于安陵君</text>
+        </navLabel>
+        <content src="Text/178.htm"/>
+      </navPoint>
+      <navPoint id="num_193" playOrder="193">
+        <navLabel>
+          <text>江乙為魏使于楚</text>
+        </navLabel>
+        <content src="Text/179.htm"/>
+      </navPoint>
+      <navPoint id="num_194" playOrder="194">
+        <navLabel>
+          <text>郢人有獄三年不決</text>
+        </navLabel>
+        <content src="Text/180.htm"/>
+      </navPoint>
+      <navPoint id="num_195" playOrder="195">
+        <navLabel>
+          <text>城渾出周</text>
+        </navLabel>
+        <content src="Text/181.htm"/>
+      </navPoint>
+      <navPoint id="num_196" playOrder="196">
+        <navLabel>
+          <text>韓公叔有齊魏</text>
+        </navLabel>
+        <content src="Text/182.htm"/>
+      </navPoint>
+      <navPoint id="num_197" playOrder="197">
+        <navLabel>
+          <text>楚杜赫說楚王以取趙</text>
+        </navLabel>
+        <content src="Text/183.htm"/>
+      </navPoint>
+      <navPoint id="num_198" playOrder="198">
+        <navLabel>
+          <text>楚王問于范環</text>
+        </navLabel>
+        <content src="Text/184.htm"/>
+      </navPoint>
+      <navPoint id="num_199" playOrder="199">
+        <navLabel>
+          <text>蘇秦為趙合從說楚威王</text>
+        </navLabel>
+        <content src="Text/185.htm"/>
+      </navPoint>
+      <navPoint id="num_200" playOrder="200">
+        <navLabel>
+          <text>張儀為秦破從連橫</text>
+        </navLabel>
+        <content src="Text/186.htm"/>
+      </navPoint>
+      <navPoint id="num_201" playOrder="201">
+        <navLabel>
+          <text>張儀相秦</text>
+        </navLabel>
+        <content src="Text/187.htm"/>
+      </navPoint>
+      <navPoint id="num_202" playOrder="202">
+        <navLabel>
+          <text>威王問于莫敖子華</text>
+        </navLabel>
+        <content src="Text/188.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_203" playOrder="203">
+      <navLabel>
+        <text>卷十五・楚策二</text>
+      </navLabel>
+      <content src="Text/189.htm"/>
+      <navPoint id="num_204" playOrder="204">
+        <navLabel>
+          <text>魏相翟強死</text>
+        </navLabel>
+        <content src="Text/189.htm"/>
+      </navPoint>
+      <navPoint id="num_205" playOrder="205">
+        <navLabel>
+          <text>齊秦約攻楚</text>
+        </navLabel>
+        <content src="Text/190.htm"/>
+      </navPoint>
+      <navPoint id="num_206" playOrder="206">
+        <navLabel>
+          <text>術視伐楚</text>
+        </navLabel>
+        <content src="Text/191.htm"/>
+      </navPoint>
+      <navPoint id="num_207" playOrder="207">
+        <navLabel>
+          <text>四國伐楚</text>
+        </navLabel>
+        <content src="Text/192.htm"/>
+      </navPoint>
+      <navPoint id="num_208" playOrder="208">
+        <navLabel>
+          <text>楚懷王拘張儀</text>
+        </navLabel>
+        <content src="Text/193.htm"/>
+      </navPoint>
+      <navPoint id="num_209" playOrder="209">
+        <navLabel>
+          <text>楚王將出張子</text>
+        </navLabel>
+        <content src="Text/194.htm"/>
+      </navPoint>
+      <navPoint id="num_210" playOrder="210">
+        <navLabel>
+          <text>秦敗楚漢中</text>
+        </navLabel>
+        <content src="Text/195.htm"/>
+      </navPoint>
+      <navPoint id="num_211" playOrder="211">
+        <navLabel>
+          <text>楚襄王為太子之時</text>
+        </navLabel>
+        <content src="Text/196.htm"/>
+      </navPoint>
+      <navPoint id="num_212" playOrder="212">
+        <navLabel>
+          <text>女阿謂蘇子</text>
+        </navLabel>
+        <content src="Text/197.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_213" playOrder="213">
+      <navLabel>
+        <text>卷十六・楚策三</text>
+      </navLabel>
+      <content src="Text/198.htm"/>
+      <navPoint id="num_214" playOrder="214">
+        <navLabel>
+          <text>蘇子謂楚王</text>
+        </navLabel>
+        <content src="Text/198.htm"/>
+      </navPoint>
+      <navPoint id="num_215" playOrder="215">
+        <navLabel>
+          <text>蘇秦之楚三日</text>
+        </navLabel>
+        <content src="Text/199.htm"/>
+      </navPoint>
+      <navPoint id="num_216" playOrder="216">
+        <navLabel>
+          <text>楚王逐張儀于魏</text>
+        </navLabel>
+        <content src="Text/200.htm"/>
+      </navPoint>
+      <navPoint id="num_217" playOrder="217">
+        <navLabel>
+          <text>張儀之楚貧</text>
+        </navLabel>
+        <content src="Text/201.htm"/>
+      </navPoint>
+      <navPoint id="num_218" playOrder="218">
+        <navLabel>
+          <text>楚王令昭雎之秦重張儀</text>
+        </navLabel>
+        <content src="Text/202.htm"/>
+      </navPoint>
+      <navPoint id="num_219" playOrder="219">
+        <navLabel>
+          <text>張儀逐惠施于魏</text>
+        </navLabel>
+        <content src="Text/203.htm"/>
+      </navPoint>
+      <navPoint id="num_220" playOrder="220">
+        <navLabel>
+          <text>五國伐秦</text>
+        </navLabel>
+        <content src="Text/204.htm"/>
+      </navPoint>
+      <navPoint id="num_221" playOrder="221">
+        <navLabel>
+          <text>陳軫告楚之魏</text>
+        </navLabel>
+        <content src="Text/205.htm"/>
+      </navPoint>
+      <navPoint id="num_222" playOrder="222">
+        <navLabel>
+          <text>秦伐宜陽</text>
+        </navLabel>
+        <content src="Text/206.htm"/>
+      </navPoint>
+      <navPoint id="num_223" playOrder="223">
+        <navLabel>
+          <text>唐且見春申君</text>
+        </navLabel>
+        <content src="Text/207.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_224" playOrder="224">
+      <navLabel>
+        <text>卷十七・楚策四</text>
+      </navLabel>
+      <content src="Text/208.htm"/>
+      <navPoint id="num_225" playOrder="225">
+        <navLabel>
+          <text>或謂楚王</text>
+        </navLabel>
+        <content src="Text/208.htm"/>
+      </navPoint>
+      <navPoint id="num_226" playOrder="226">
+        <navLabel>
+          <text>魏王遺楚王美人</text>
+        </navLabel>
+        <content src="Text/209.htm"/>
+      </navPoint>
+      <navPoint id="num_227" playOrder="227">
+        <navLabel>
+          <text>楚王后死</text>
+        </navLabel>
+        <content src="Text/210.htm"/>
+      </navPoint>
+      <navPoint id="num_228" playOrder="228">
+        <navLabel>
+          <text>莊辛謂楚襄王</text>
+        </navLabel>
+        <content src="Text/211.htm"/>
+      </navPoint>
+      <navPoint id="num_229" playOrder="229">
+        <navLabel>
+          <text>齊明說卓滑以伐秦</text>
+        </navLabel>
+        <content src="Text/212.htm"/>
+      </navPoint>
+      <navPoint id="num_230" playOrder="230">
+        <navLabel>
+          <text>或謂黃齊</text>
+        </navLabel>
+        <content src="Text/213.htm"/>
+      </navPoint>
+      <navPoint id="num_231" playOrder="231">
+        <navLabel>
+          <text>長沙之難</text>
+        </navLabel>
+        <content src="Text/214.htm"/>
+      </navPoint>
+      <navPoint id="num_232" playOrder="232">
+        <navLabel>
+          <text>有獻不死之藥于荊王者</text>
+        </navLabel>
+        <content src="Text/215.htm"/>
+      </navPoint>
+      <navPoint id="num_233" playOrder="233">
+        <navLabel>
+          <text>客說春申君</text>
+        </navLabel>
+        <content src="Text/216.htm"/>
+      </navPoint>
+      <navPoint id="num_234" playOrder="234">
+        <navLabel>
+          <text>天下合縱</text>
+        </navLabel>
+        <content src="Text/217.htm"/>
+      </navPoint>
+      <navPoint id="num_235" playOrder="235">
+        <navLabel>
+          <text>汗明見春申君</text>
+        </navLabel>
+        <content src="Text/218.htm"/>
+      </navPoint>
+      <navPoint id="num_236" playOrder="236">
+        <navLabel>
+          <text>楚考烈王無子</text>
+        </navLabel>
+        <content src="Text/219.htm"/>
+      </navPoint>
+      <navPoint id="num_237" playOrder="237">
+        <navLabel>
+          <text>虞卿謂春申君</text>
+        </navLabel>
+        <content src="Text/220.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_238" playOrder="238">
+      <navLabel>
+        <text>卷十八・趙策一</text>
+      </navLabel>
+      <content src="Text/221.htm"/>
+      <navPoint id="num_239" playOrder="239">
+        <navLabel>
+          <text>知伯從韓魏兵以攻趙</text>
+        </navLabel>
+        <content src="Text/221.htm"/>
+      </navPoint>
+      <navPoint id="num_240" playOrder="240">
+        <navLabel>
+          <text>知伯帥趙韓魏而伐范中行氏</text>
+        </navLabel>
+        <content src="Text/222.htm"/>
+      </navPoint>
+      <navPoint id="num_241" playOrder="241">
+        <navLabel>
+          <text>張孟談既固趙宗</text>
+        </navLabel>
+        <content src="Text/223.htm"/>
+      </navPoint>
+      <navPoint id="num_242" playOrder="242">
+        <navLabel>
+          <text>晉畢陽之孫豫讓</text>
+        </navLabel>
+        <content src="Text/224.htm"/>
+      </navPoint>
+      <navPoint id="num_243" playOrder="243">
+        <navLabel>
+          <text>魏文侯借道于趙攻中山</text>
+        </navLabel>
+        <content src="Text/225.htm"/>
+      </navPoint>
+      <navPoint id="num_244" playOrder="244">
+        <navLabel>
+          <text>秦韓圍梁燕趙救之</text>
+        </navLabel>
+        <content src="Text/226.htm"/>
+      </navPoint>
+      <navPoint id="num_245" playOrder="245">
+        <navLabel>
+          <text>腹擊為室而鉅</text>
+        </navLabel>
+        <content src="Text/227.htm"/>
+      </navPoint>
+      <navPoint id="num_246" playOrder="246">
+        <navLabel>
+          <text>蘇秦說李兌</text>
+        </navLabel>
+        <content src="Text/228.htm"/>
+      </navPoint>
+      <navPoint id="num_247" playOrder="247">
+        <navLabel>
+          <text>趙收天下且以伐齊</text>
+        </navLabel>
+        <content src="Text/229.htm"/>
+      </navPoint>
+      <navPoint id="num_248" playOrder="248">
+        <navLabel>
+          <text>齊攻宋奉陽君不欲</text>
+        </navLabel>
+        <content src="Text/230.htm"/>
+      </navPoint>
+      <navPoint id="num_249" playOrder="249">
+        <navLabel>
+          <text>秦王謂公子他</text>
+        </navLabel>
+        <content src="Text/231.htm"/>
+      </navPoint>
+      <navPoint id="num_250" playOrder="250">
+        <navLabel>
+          <text>蘇秦為趙王使于秦</text>
+        </navLabel>
+        <content src="Text/232.htm"/>
+      </navPoint>
+      <navPoint id="num_251" playOrder="251">
+        <navLabel>
+          <text>甘茂為秦約魏以攻韓宜陽</text>
+        </navLabel>
+        <content src="Text/233.htm"/>
+      </navPoint>
+      <navPoint id="num_252" playOrder="252">
+        <navLabel>
+          <text>謂皮相國</text>
+        </navLabel>
+        <content src="Text/234.htm"/>
+      </navPoint>
+      <navPoint id="num_253" playOrder="253">
+        <navLabel>
+          <text>或謂皮相國</text>
+        </navLabel>
+        <content src="Text/235.htm"/>
+      </navPoint>
+      <navPoint id="num_254" playOrder="254">
+        <navLabel>
+          <text>趙王封孟嘗君以武城</text>
+        </navLabel>
+        <content src="Text/236.htm"/>
+      </navPoint>
+      <navPoint id="num_255" playOrder="255">
+        <navLabel>
+          <text>謂趙王曰三晉合而秦弱</text>
+        </navLabel>
+        <content src="Text/237.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_256" playOrder="256">
+      <navLabel>
+        <text>卷十九・趙策二</text>
+      </navLabel>
+      <content src="Text/238.htm"/>
+      <navPoint id="num_257" playOrder="257">
+        <navLabel>
+          <text>蘇秦從燕之趙始合從</text>
+        </navLabel>
+        <content src="Text/238.htm"/>
+      </navPoint>
+      <navPoint id="num_258" playOrder="258">
+        <navLabel>
+          <text>秦攻趙</text>
+        </navLabel>
+        <content src="Text/239.htm"/>
+      </navPoint>
+      <navPoint id="num_259" playOrder="259">
+        <navLabel>
+          <text>張儀為秦連橫說趙王</text>
+        </navLabel>
+        <content src="Text/240.htm"/>
+      </navPoint>
+      <navPoint id="num_260" playOrder="260">
+        <navLabel>
+          <text>武靈王平晝閒居</text>
+        </navLabel>
+        <content src="Text/241.htm"/>
+      </navPoint>
+      <navPoint id="num_261" playOrder="261">
+        <navLabel>
+          <text>王立周紹為傅</text>
+        </navLabel>
+        <content src="Text/242.htm"/>
+      </navPoint>
+      <navPoint id="num_262" playOrder="262">
+        <navLabel>
+          <text>趙燕後胡服</text>
+        </navLabel>
+        <content src="Text/243.htm"/>
+      </navPoint>
+      <navPoint id="num_263" playOrder="263">
+        <navLabel>
+          <text>王破原陽</text>
+        </navLabel>
+        <content src="Text/244.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_264" playOrder="264">
+      <navLabel>
+        <text>卷二十・趙策三</text>
+      </navLabel>
+      <content src="Text/245.htm"/>
+      <navPoint id="num_265" playOrder="265">
+        <navLabel>
+          <text>趙惠文王三十年</text>
+        </navLabel>
+        <content src="Text/245.htm"/>
+      </navPoint>
+      <navPoint id="num_266" playOrder="266">
+        <navLabel>
+          <text>趙使仇郝之秦</text>
+        </navLabel>
+        <content src="Text/246.htm"/>
+      </navPoint>
+      <navPoint id="num_267" playOrder="267">
+        <navLabel>
+          <text>齊破燕趙欲存之</text>
+        </navLabel>
+        <content src="Text/247.htm"/>
+      </navPoint>
+      <navPoint id="num_268" playOrder="268">
+        <navLabel>
+          <text>秦攻趙藺離石祁拔</text>
+        </navLabel>
+        <content src="Text/248.htm"/>
+      </navPoint>
+      <navPoint id="num_269" playOrder="269">
+        <navLabel>
+          <text>富丁欲以趙合齊魏</text>
+        </navLabel>
+        <content src="Text/249.htm"/>
+      </navPoint>
+      <navPoint id="num_270" playOrder="270">
+        <navLabel>
+          <text>魏因富丁且合于秦</text>
+        </navLabel>
+        <content src="Text/250.htm"/>
+      </navPoint>
+      <navPoint id="num_271" playOrder="271">
+        <navLabel>
+          <text>魏使人因平原君請從于趙</text>
+        </navLabel>
+        <content src="Text/251.htm"/>
+      </navPoint>
+      <navPoint id="num_272" playOrder="272">
+        <navLabel>
+          <text>平原君謂馮忌</text>
+        </navLabel>
+        <content src="Text/252.htm"/>
+      </navPoint>
+      <navPoint id="num_273" playOrder="273">
+        <navLabel>
+          <text>平原君謂平陽君</text>
+        </navLabel>
+        <content src="Text/253.htm"/>
+      </navPoint>
+      <navPoint id="num_274" playOrder="274">
+        <navLabel>
+          <text>秦攻趙于長平</text>
+        </navLabel>
+        <content src="Text/254.htm"/>
+      </navPoint>
+      <navPoint id="num_275" playOrder="275">
+        <navLabel>
+          <text>秦攻趙平原君使人請救于魏</text>
+        </navLabel>
+        <content src="Text/255.htm"/>
+      </navPoint>
+      <navPoint id="num_276" playOrder="276">
+        <navLabel>
+          <text>秦趙戰于長平</text>
+        </navLabel>
+        <content src="Text/256.htm"/>
+      </navPoint>
+      <navPoint id="num_277" playOrder="277">
+        <navLabel>
+          <text>秦圍趙之邯鄲</text>
+        </navLabel>
+        <content src="Text/257.htm"/>
+      </navPoint>
+      <navPoint id="num_278" playOrder="278">
+        <navLabel>
+          <text>說張相國</text>
+        </navLabel>
+        <content src="Text/258.htm"/>
+      </navPoint>
+      <navPoint id="num_279" playOrder="279">
+        <navLabel>
+          <text>鄭同北見趙王</text>
+        </navLabel>
+        <content src="Text/259.htm"/>
+      </navPoint>
+      <navPoint id="num_280" playOrder="280">
+        <navLabel>
+          <text>建信君貴于趙</text>
+        </navLabel>
+        <content src="Text/260.htm"/>
+      </navPoint>
+      <navPoint id="num_281" playOrder="281">
+        <navLabel>
+          <text>衞靈公近雍疽彌子瑕</text>
+        </navLabel>
+        <content src="Text/261.htm"/>
+      </navPoint>
+      <navPoint id="num_282" playOrder="282">
+        <navLabel>
+          <text>或謂建信君之所以事王者</text>
+        </navLabel>
+        <content src="Text/262.htm"/>
+      </navPoint>
+      <navPoint id="num_283" playOrder="283">
+        <navLabel>
+          <text>苦成常謂建信君</text>
+        </navLabel>
+        <content src="Text/263.htm"/>
+      </navPoint>
+      <navPoint id="num_284" playOrder="284">
+        <navLabel>
+          <text>希寫見建信君</text>
+        </navLabel>
+        <content src="Text/264.htm"/>
+      </navPoint>
+      <navPoint id="num_285" playOrder="285">
+        <navLabel>
+          <text>魏魀謂建信君</text>
+        </navLabel>
+        <content src="Text/265.htm"/>
+      </navPoint>
+      <navPoint id="num_286" playOrder="286">
+        <navLabel>
+          <text>秦攻趙鼓鐸之音聞于北堂</text>
+        </navLabel>
+        <content src="Text/266.htm"/>
+      </navPoint>
+      <navPoint id="num_287" playOrder="287">
+        <navLabel>
+          <text>齊人李伯見孝成王</text>
+        </navLabel>
+        <content src="Text/267.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_288" playOrder="288">
+      <navLabel>
+        <text>卷二十一・趙策四</text>
+      </navLabel>
+      <content src="Text/268.htm"/>
+      <navPoint id="num_289" playOrder="289">
+        <navLabel>
+          <text>為齊獻書趙王</text>
+        </navLabel>
+        <content src="Text/268.htm"/>
+      </navPoint>
+      <navPoint id="num_290" playOrder="290">
+        <navLabel>
+          <text>齊欲攻宋</text>
+        </navLabel>
+        <content src="Text/269.htm"/>
+      </navPoint>
+      <navPoint id="num_291" playOrder="291">
+        <navLabel>
+          <text>齊將攻宋而秦陰禁之</text>
+        </navLabel>
+        <content src="Text/270.htm"/>
+      </navPoint>
+      <navPoint id="num_292" playOrder="292">
+        <navLabel>
+          <text>五國伐秦無功</text>
+        </navLabel>
+        <content src="Text/271.htm"/>
+      </navPoint>
+      <navPoint id="num_293" playOrder="293">
+        <navLabel>
+          <text>樓緩將使伏事辭行</text>
+        </navLabel>
+        <content src="Text/272.htm"/>
+      </navPoint>
+      <navPoint id="num_294" playOrder="294">
+        <navLabel>
+          <text>虞卿謂趙王</text>
+        </navLabel>
+        <content src="Text/273.htm"/>
+      </navPoint>
+      <navPoint id="num_295" playOrder="295">
+        <navLabel>
+          <text>燕封宋人榮蚠為高陽君</text>
+        </navLabel>
+        <content src="Text/274.htm"/>
+      </navPoint>
+      <navPoint id="num_296" playOrder="296">
+        <navLabel>
+          <text>三國攻秦趙攻中山</text>
+        </navLabel>
+        <content src="Text/275.htm"/>
+      </navPoint>
+      <navPoint id="num_297" playOrder="297">
+        <navLabel>
+          <text>趙使趙莊合從</text>
+        </navLabel>
+        <content src="Text/276.htm"/>
+      </navPoint>
+      <navPoint id="num_298" playOrder="298">
+        <navLabel>
+          <text>翟章從梁來</text>
+        </navLabel>
+        <content src="Text/277.htm"/>
+      </navPoint>
+      <navPoint id="num_299" playOrder="299">
+        <navLabel>
+          <text>馮忌為廬陵君謂趙王</text>
+        </navLabel>
+        <content src="Text/278.htm"/>
+      </navPoint>
+      <navPoint id="num_300" playOrder="300">
+        <navLabel>
+          <text>馮忌請見趙王</text>
+        </navLabel>
+        <content src="Text/279.htm"/>
+      </navPoint>
+      <navPoint id="num_301" playOrder="301">
+        <navLabel>
+          <text>客見趙王</text>
+        </navLabel>
+        <content src="Text/280.htm"/>
+      </navPoint>
+      <navPoint id="num_302" playOrder="302">
+        <navLabel>
+          <text>秦攻魏取寧邑</text>
+        </navLabel>
+        <content src="Text/281.htm"/>
+      </navPoint>
+      <navPoint id="num_303" playOrder="303">
+        <navLabel>
+          <text>趙使姚賈約韓魏</text>
+        </navLabel>
+        <content src="Text/282.htm"/>
+      </navPoint>
+      <navPoint id="num_304" playOrder="304">
+        <navLabel>
+          <text>魏敗楚于陘山</text>
+        </navLabel>
+        <content src="Text/283.htm"/>
+      </navPoint>
+      <navPoint id="num_305" playOrder="305">
+        <navLabel>
+          <text>秦召春平侯</text>
+        </navLabel>
+        <content src="Text/284.htm"/>
+      </navPoint>
+      <navPoint id="num_306" playOrder="306">
+        <navLabel>
+          <text>趙太后新用事</text>
+        </navLabel>
+        <content src="Text/285.htm"/>
+      </navPoint>
+      <navPoint id="num_307" playOrder="307">
+        <navLabel>
+          <text>秦使王翦攻趙</text>
+        </navLabel>
+        <content src="Text/286.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_308" playOrder="308">
+      <navLabel>
+        <text>卷二十二・魏策一</text>
+      </navLabel>
+      <content src="Text/287.htm"/>
+      <navPoint id="num_309" playOrder="309">
+        <navLabel>
+          <text>知伯索地于魏桓子</text>
+        </navLabel>
+        <content src="Text/287.htm"/>
+      </navPoint>
+      <navPoint id="num_310" playOrder="310">
+        <navLabel>
+          <text>韓趙相難</text>
+        </navLabel>
+        <content src="Text/288.htm"/>
+      </navPoint>
+      <navPoint id="num_311" playOrder="311">
+        <navLabel>
+          <text>樂羊為魏將而攻中山</text>
+        </navLabel>
+        <content src="Text/289.htm"/>
+      </navPoint>
+      <navPoint id="num_312" playOrder="312">
+        <navLabel>
+          <text>西門豹為鄴令</text>
+        </navLabel>
+        <content src="Text/290.htm"/>
+      </navPoint>
+      <navPoint id="num_313" playOrder="313">
+        <navLabel>
+          <text>文侯與虞人期獵</text>
+        </navLabel>
+        <content src="Text/291.htm"/>
+      </navPoint>
+      <navPoint id="num_314" playOrder="314">
+        <navLabel>
+          <text>魏文侯與田子方飲酒而稱樂</text>
+        </navLabel>
+        <content src="Text/292.htm"/>
+      </navPoint>
+      <navPoint id="num_315" playOrder="315">
+        <navLabel>
+          <text>魏武侯與諸大夫浮于西河</text>
+        </navLabel>
+        <content src="Text/293.htm"/>
+      </navPoint>
+      <navPoint id="num_316" playOrder="316">
+        <navLabel>
+          <text>魏公叔痤為魏將</text>
+        </navLabel>
+        <content src="Text/294.htm"/>
+      </navPoint>
+      <navPoint id="num_317" playOrder="317">
+        <navLabel>
+          <text>魏公叔痤病</text>
+        </navLabel>
+        <content src="Text/295.htm"/>
+      </navPoint>
+      <navPoint id="num_318" playOrder="318">
+        <navLabel>
+          <text>蘇子為趙合從說魏王</text>
+        </navLabel>
+        <content src="Text/296.htm"/>
+      </navPoint>
+      <navPoint id="num_319" playOrder="319">
+        <navLabel>
+          <text>張儀為秦連橫說魏王</text>
+        </navLabel>
+        <content src="Text/297.htm"/>
+      </navPoint>
+      <navPoint id="num_320" playOrder="320">
+        <navLabel>
+          <text>齊魏約而伐楚</text>
+        </navLabel>
+        <content src="Text/298.htm"/>
+      </navPoint>
+      <navPoint id="num_321" playOrder="321">
+        <navLabel>
+          <text>蘇秦拘于魏</text>
+        </navLabel>
+        <content src="Text/299.htm"/>
+      </navPoint>
+      <navPoint id="num_322" playOrder="322">
+        <navLabel>
+          <text>陳軫為秦使于齊</text>
+        </navLabel>
+        <content src="Text/300.htm"/>
+      </navPoint>
+      <navPoint id="num_323" playOrder="323">
+        <navLabel>
+          <text>張儀惡陳軫于魏王</text>
+        </navLabel>
+        <content src="Text/301.htm"/>
+      </navPoint>
+      <navPoint id="num_324" playOrder="324">
+        <navLabel>
+          <text>張儀欲窮陳軫</text>
+        </navLabel>
+        <content src="Text/302.htm"/>
+      </navPoint>
+      <navPoint id="num_325" playOrder="325">
+        <navLabel>
+          <text>張儀走之魏</text>
+        </navLabel>
+        <content src="Text/303.htm"/>
+      </navPoint>
+      <navPoint id="num_326" playOrder="326">
+        <navLabel>
+          <text>張儀欲以魏合于秦韓</text>
+        </navLabel>
+        <content src="Text/304.htm"/>
+      </navPoint>
+      <navPoint id="num_327" playOrder="327">
+        <navLabel>
+          <text>張儀以秦相魏</text>
+        </navLabel>
+        <content src="Text/305.htm"/>
+      </navPoint>
+      <navPoint id="num_328" playOrder="328">
+        <navLabel>
+          <text>張儀欲并相秦魏</text>
+        </navLabel>
+        <content src="Text/306.htm"/>
+      </navPoint>
+      <navPoint id="num_329" playOrder="329">
+        <navLabel>
+          <text>魏王將相張儀</text>
+        </navLabel>
+        <content src="Text/307.htm"/>
+      </navPoint>
+      <navPoint id="num_330" playOrder="330">
+        <navLabel>
+          <text>楚許魏六城</text>
+        </navLabel>
+        <content src="Text/308.htm"/>
+      </navPoint>
+      <navPoint id="num_331" playOrder="331">
+        <navLabel>
+          <text>張儀告公仲</text>
+        </navLabel>
+        <content src="Text/309.htm"/>
+      </navPoint>
+      <navPoint id="num_332" playOrder="332">
+        <navLabel>
+          <text>徐州之役</text>
+        </navLabel>
+        <content src="Text/310.htm"/>
+      </navPoint>
+      <navPoint id="num_333" playOrder="333">
+        <navLabel>
+          <text>秦敗東周</text>
+        </navLabel>
+        <content src="Text/311.htm"/>
+      </navPoint>
+      <navPoint id="num_334" playOrder="334">
+        <navLabel>
+          <text>齊王將見燕趙楚之相于衞</text>
+        </navLabel>
+        <content src="Text/312.htm"/>
+      </navPoint>
+      <navPoint id="num_335" playOrder="335">
+        <navLabel>
+          <text>魏令公孫衍請和于秦</text>
+        </navLabel>
+        <content src="Text/313.htm"/>
+      </navPoint>
+      <navPoint id="num_336" playOrder="336">
+        <navLabel>
+          <text>公孫衍為魏將</text>
+        </navLabel>
+        <content src="Text/314.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_337" playOrder="337">
+      <navLabel>
+        <text>卷二十三・魏策二</text>
+      </navLabel>
+      <content src="Text/315.htm"/>
+      <navPoint id="num_338" playOrder="338">
+        <navLabel>
+          <text>犀首田盼欲得齊魏之兵以伐趙</text>
+        </navLabel>
+        <content src="Text/315.htm"/>
+      </navPoint>
+      <navPoint id="num_339" playOrder="339">
+        <navLabel>
+          <text>犀首見梁君</text>
+        </navLabel>
+        <content src="Text/316.htm"/>
+      </navPoint>
+      <navPoint id="num_340" playOrder="340">
+        <navLabel>
+          <text>蘇代為田需說魏王</text>
+        </navLabel>
+        <content src="Text/317.htm"/>
+      </navPoint>
+      <navPoint id="num_341" playOrder="341">
+        <navLabel>
+          <text>史舉非犀首于王</text>
+        </navLabel>
+        <content src="Text/318.htm"/>
+      </navPoint>
+      <navPoint id="num_342" playOrder="342">
+        <navLabel>
+          <text>楚王攻梁南</text>
+        </navLabel>
+        <content src="Text/319.htm"/>
+      </navPoint>
+      <navPoint id="num_343" playOrder="343">
+        <navLabel>
+          <text>魏惠王死</text>
+        </navLabel>
+        <content src="Text/320.htm"/>
+      </navPoint>
+      <navPoint id="num_344" playOrder="344">
+        <navLabel>
+          <text>五國伐秦</text>
+        </navLabel>
+        <content src="Text/321.htm"/>
+      </navPoint>
+      <navPoint id="num_345" playOrder="345">
+        <navLabel>
+          <text>文子田需周宵相善</text>
+        </navLabel>
+        <content src="Text/322.htm"/>
+      </navPoint>
+      <navPoint id="num_346" playOrder="346">
+        <navLabel>
+          <text>魏王令惠施之楚</text>
+        </navLabel>
+        <content src="Text/323.htm"/>
+      </navPoint>
+      <navPoint id="num_347" playOrder="347">
+        <navLabel>
+          <text>魏惠王起境內眾</text>
+        </navLabel>
+        <content src="Text/324.htm"/>
+      </navPoint>
+      <navPoint id="num_348" playOrder="348">
+        <navLabel>
+          <text>齊魏戰于馬陵</text>
+        </navLabel>
+        <content src="Text/325.htm"/>
+      </navPoint>
+      <navPoint id="num_349" playOrder="349">
+        <navLabel>
+          <text>惠施為韓魏交</text>
+        </navLabel>
+        <content src="Text/326.htm"/>
+      </navPoint>
+      <navPoint id="num_350" playOrder="350">
+        <navLabel>
+          <text>田需貴于魏王</text>
+        </navLabel>
+        <content src="Text/327.htm"/>
+      </navPoint>
+      <navPoint id="num_351" playOrder="351">
+        <navLabel>
+          <text>田需死</text>
+        </navLabel>
+        <content src="Text/328.htm"/>
+      </navPoint>
+      <navPoint id="num_352" playOrder="352">
+        <navLabel>
+          <text>秦召魏相信安君</text>
+        </navLabel>
+        <content src="Text/329.htm"/>
+      </navPoint>
+      <navPoint id="num_353" playOrder="353">
+        <navLabel>
+          <text>秦楚攻魏圍皮氏</text>
+        </navLabel>
+        <content src="Text/330.htm"/>
+      </navPoint>
+      <navPoint id="num_354" playOrder="354">
+        <navLabel>
+          <text>龐葱與太子質于邯鄲</text>
+        </navLabel>
+        <content src="Text/331.htm"/>
+      </navPoint>
+      <navPoint id="num_355" playOrder="355">
+        <navLabel>
+          <text>梁王魏嬰觴諸侯于范臺</text>
+        </navLabel>
+        <content src="Text/332.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_356" playOrder="356">
+      <navLabel>
+        <text>卷二十四・魏策三</text>
+      </navLabel>
+      <content src="Text/333.htm"/>
+      <navPoint id="num_357" playOrder="357">
+        <navLabel>
+          <text>秦趙約而伐魏</text>
+        </navLabel>
+        <content src="Text/333.htm"/>
+      </navPoint>
+      <navPoint id="num_358" playOrder="358">
+        <navLabel>
+          <text>芒卯謂秦王</text>
+        </navLabel>
+        <content src="Text/334.htm"/>
+      </navPoint>
+      <navPoint id="num_359" playOrder="359">
+        <navLabel>
+          <text>秦敗魏于華走芒卯而圍大梁</text>
+        </navLabel>
+        <content src="Text/335.htm"/>
+      </navPoint>
+      <navPoint id="num_360" playOrder="360">
+        <navLabel>
+          <text>秦敗魏于華魏王且入朝于秦</text>
+        </navLabel>
+        <content src="Text/336.htm"/>
+      </navPoint>
+      <navPoint id="num_361" playOrder="361">
+        <navLabel>
+          <text>華軍之戰</text>
+        </navLabel>
+        <content src="Text/337.htm"/>
+      </navPoint>
+      <navPoint id="num_362" playOrder="362">
+        <navLabel>
+          <text>齊欲伐魏</text>
+        </navLabel>
+        <content src="Text/338.htm"/>
+      </navPoint>
+      <navPoint id="num_363" playOrder="363">
+        <navLabel>
+          <text>秦將伐魏</text>
+        </navLabel>
+        <content src="Text/339.htm"/>
+      </navPoint>
+      <navPoint id="num_364" playOrder="364">
+        <navLabel>
+          <text>魏將與秦攻韓</text>
+        </navLabel>
+        <content src="Text/340.htm"/>
+      </navPoint>
+      <navPoint id="num_365" playOrder="365">
+        <navLabel>
+          <text>奉陽君約魏</text>
+        </navLabel>
+        <content src="Text/341.htm"/>
+      </navPoint>
+      <navPoint id="num_366" playOrder="366">
+        <navLabel>
+          <text>秦使趙攻魏</text>
+        </navLabel>
+        <content src="Text/342.htm"/>
+      </navPoint>
+      <navPoint id="num_367" playOrder="367">
+        <navLabel>
+          <text>魏太子在楚</text>
+        </navLabel>
+        <content src="Text/343.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_368" playOrder="368">
+      <navLabel>
+        <text>卷二十五・魏策四</text>
+      </navLabel>
+      <content src="Text/344.htm"/>
+      <navPoint id="num_369" playOrder="369">
+        <navLabel>
+          <text>獻書秦王</text>
+        </navLabel>
+        <content src="Text/344.htm"/>
+      </navPoint>
+      <navPoint id="num_370" playOrder="370">
+        <navLabel>
+          <text>六年謂魏王</text>
+        </navLabel>
+        <content src="Text/345.htm"/>
+      </navPoint>
+      <navPoint id="num_371" playOrder="371">
+        <navLabel>
+          <text>魏王問張旄</text>
+        </navLabel>
+        <content src="Text/346.htm"/>
+      </navPoint>
+      <navPoint id="num_372" playOrder="372">
+        <navLabel>
+          <text>客謂司馬食其</text>
+        </navLabel>
+        <content src="Text/347.htm"/>
+      </navPoint>
+      <navPoint id="num_373" playOrder="373">
+        <navLabel>
+          <text>魏秦伐楚</text>
+        </navLabel>
+        <content src="Text/348.htm"/>
+      </navPoint>
+      <navPoint id="num_374" playOrder="374">
+        <navLabel>
+          <text>穰侯攻大梁</text>
+        </navLabel>
+        <content src="Text/349.htm"/>
+      </navPoint>
+      <navPoint id="num_375" playOrder="375">
+        <navLabel>
+          <text>白珪謂新城君</text>
+        </navLabel>
+        <content src="Text/350.htm"/>
+      </navPoint>
+      <navPoint id="num_376" playOrder="376">
+        <navLabel>
+          <text>秦攻韓之管</text>
+        </navLabel>
+        <content src="Text/351.htm"/>
+      </navPoint>
+      <navPoint id="num_377" playOrder="377">
+        <navLabel>
+          <text>秦趙構難而戰</text>
+        </navLabel>
+        <content src="Text/352.htm"/>
+      </navPoint>
+      <navPoint id="num_378" playOrder="378">
+        <navLabel>
+          <text>長平之役</text>
+        </navLabel>
+        <content src="Text/353.htm"/>
+      </navPoint>
+      <navPoint id="num_379" playOrder="379">
+        <navLabel>
+          <text>樓梧約秦魏</text>
+        </navLabel>
+        <content src="Text/354.htm"/>
+      </navPoint>
+      <navPoint id="num_380" playOrder="380">
+        <navLabel>
+          <text>芮宋欲絕秦趙之交</text>
+        </navLabel>
+        <content src="Text/355.htm"/>
+      </navPoint>
+      <navPoint id="num_381" playOrder="381">
+        <navLabel>
+          <text>為魏謂楚王</text>
+        </navLabel>
+        <content src="Text/356.htm"/>
+      </navPoint>
+      <navPoint id="num_382" playOrder="382">
+        <navLabel>
+          <text>管鼻之令翟強與秦事</text>
+        </navLabel>
+        <content src="Text/357.htm"/>
+      </navPoint>
+      <navPoint id="num_383" playOrder="383">
+        <navLabel>
+          <text>成陽君欲以韓魏聽秦</text>
+        </navLabel>
+        <content src="Text/358.htm"/>
+      </navPoint>
+      <navPoint id="num_384" playOrder="384">
+        <navLabel>
+          <text>秦拔寧邑</text>
+        </navLabel>
+        <content src="Text/359.htm"/>
+      </navPoint>
+      <navPoint id="num_385" playOrder="385">
+        <navLabel>
+          <text>秦罷邯鄲</text>
+        </navLabel>
+        <content src="Text/360.htm"/>
+      </navPoint>
+      <navPoint id="num_386" playOrder="386">
+        <navLabel>
+          <text>魏王欲攻邯鄲</text>
+        </navLabel>
+        <content src="Text/361.htm"/>
+      </navPoint>
+      <navPoint id="num_387" playOrder="387">
+        <navLabel>
+          <text>周肖謂宮他</text>
+        </navLabel>
+        <content src="Text/362.htm"/>
+      </navPoint>
+      <navPoint id="num_388" playOrder="388">
+        <navLabel>
+          <text>周最善齊</text>
+        </navLabel>
+        <content src="Text/363.htm"/>
+      </navPoint>
+      <navPoint id="num_389" playOrder="389">
+        <navLabel>
+          <text>周最入齊</text>
+        </navLabel>
+        <content src="Text/364.htm"/>
+      </navPoint>
+      <navPoint id="num_390" playOrder="390">
+        <navLabel>
+          <text>秦魏為與國</text>
+        </navLabel>
+        <content src="Text/365.htm"/>
+      </navPoint>
+      <navPoint id="num_391" playOrder="391">
+        <navLabel>
+          <text>信陵君殺晉鄙</text>
+        </navLabel>
+        <content src="Text/366.htm"/>
+      </navPoint>
+      <navPoint id="num_392" playOrder="392">
+        <navLabel>
+          <text>魏攻管而不下</text>
+        </navLabel>
+        <content src="Text/367.htm"/>
+      </navPoint>
+      <navPoint id="num_393" playOrder="393">
+        <navLabel>
+          <text>魏王與龍陽君共船而釣</text>
+        </navLabel>
+        <content src="Text/368.htm"/>
+      </navPoint>
+      <navPoint id="num_394" playOrder="394">
+        <navLabel>
+          <text>秦攻魏急</text>
+        </navLabel>
+        <content src="Text/369.htm"/>
+      </navPoint>
+      <navPoint id="num_395" playOrder="395">
+        <navLabel>
+          <text>秦王使人謂安陵君</text>
+        </navLabel>
+        <content src="Text/370.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_396" playOrder="396">
+      <navLabel>
+        <text>卷二十六・韓策一</text>
+      </navLabel>
+      <content src="Text/371.htm"/>
+      <navPoint id="num_397" playOrder="397">
+        <navLabel>
+          <text>三晉已破智氏</text>
+        </navLabel>
+        <content src="Text/371.htm"/>
+      </navPoint>
+      <navPoint id="num_398" playOrder="398">
+        <navLabel>
+          <text>大成午從趙來</text>
+        </navLabel>
+        <content src="Text/372.htm"/>
+      </navPoint>
+      <navPoint id="num_399" playOrder="399">
+        <navLabel>
+          <text>魏之圍邯鄲</text>
+        </navLabel>
+        <content src="Text/373.htm"/>
+      </navPoint>
+      <navPoint id="num_400" playOrder="400">
+        <navLabel>
+          <text>申子請仕其從兄官</text>
+        </navLabel>
+        <content src="Text/374.htm"/>
+      </navPoint>
+      <navPoint id="num_401" playOrder="401">
+        <navLabel>
+          <text>蘇秦為楚合從說韓王</text>
+        </navLabel>
+        <content src="Text/375.htm"/>
+      </navPoint>
+      <navPoint id="num_402" playOrder="402">
+        <navLabel>
+          <text>張儀為秦連橫說韓王</text>
+        </navLabel>
+        <content src="Text/376.htm"/>
+      </navPoint>
+      <navPoint id="num_403" playOrder="403">
+        <navLabel>
+          <text>宣王謂摎留</text>
+        </navLabel>
+        <content src="Text/377.htm"/>
+      </navPoint>
+      <navPoint id="num_404" playOrder="404">
+        <navLabel>
+          <text>謂齊王</text>
+        </navLabel>
+        <content src="Text/378.htm"/>
+      </navPoint>
+      <navPoint id="num_405" playOrder="405">
+        <navLabel>
+          <text>楚昭獻相韓</text>
+        </navLabel>
+        <content src="Text/379.htm"/>
+      </navPoint>
+      <navPoint id="num_406" playOrder="406">
+        <navLabel>
+          <text>秦攻陘</text>
+        </navLabel>
+        <content src="Text/380.htm"/>
+      </navPoint>
+      <navPoint id="num_407" playOrder="407">
+        <navLabel>
+          <text>五國約而攻秦</text>
+        </navLabel>
+        <content src="Text/381.htm"/>
+      </navPoint>
+      <navPoint id="num_408" playOrder="408">
+        <navLabel>
+          <text>鄭彊載八百金入秦</text>
+        </navLabel>
+        <content src="Text/382.htm"/>
+      </navPoint>
+      <navPoint id="num_409" playOrder="409">
+        <navLabel>
+          <text>鄭彊之走張儀于秦</text>
+        </navLabel>
+        <content src="Text/383.htm"/>
+      </navPoint>
+      <navPoint id="num_410" playOrder="410">
+        <navLabel>
+          <text>宜陽之役</text>
+        </navLabel>
+        <content src="Text/384.htm"/>
+      </navPoint>
+      <navPoint id="num_411" playOrder="411">
+        <navLabel>
+          <text>秦圍宜陽</text>
+        </navLabel>
+        <content src="Text/385.htm"/>
+      </navPoint>
+      <navPoint id="num_412" playOrder="412">
+        <navLabel>
+          <text>公仲以宜陽之故仇甘茂</text>
+        </navLabel>
+        <content src="Text/386.htm"/>
+      </navPoint>
+      <navPoint id="num_413" playOrder="413">
+        <navLabel>
+          <text>秦韓戰于濁澤</text>
+        </navLabel>
+        <content src="Text/387.htm"/>
+      </navPoint>
+      <navPoint id="num_414" playOrder="414">
+        <navLabel>
+          <text>顏率見公仲</text>
+        </navLabel>
+        <content src="Text/388.htm"/>
+      </navPoint>
+      <navPoint id="num_415" playOrder="415">
+        <navLabel>
+          <text>韓公仲謂向壽</text>
+        </navLabel>
+        <content src="Text/389.htm"/>
+      </navPoint>
+      <navPoint id="num_416" playOrder="416">
+        <navLabel>
+          <text>或謂公仲曰聽者聽國</text>
+        </navLabel>
+        <content src="Text/390.htm"/>
+      </navPoint>
+      <navPoint id="num_417" playOrder="417">
+        <navLabel>
+          <text>韓公仲相</text>
+        </navLabel>
+        <content src="Text/391.htm"/>
+      </navPoint>
+      <navPoint id="num_418" playOrder="418">
+        <navLabel>
+          <text>王曰向也子曰天下無適</text>
+        </navLabel>
+        <content src="Text/392.htm"/>
+      </navPoint>
+      <navPoint id="num_419" playOrder="419">
+        <navLabel>
+          <text>或謂魏王王儆四彊之內</text>
+        </navLabel>
+        <content src="Text/393.htm"/>
+      </navPoint>
+      <navPoint id="num_420" playOrder="420">
+        <navLabel>
+          <text>觀鞅謂春申</text>
+        </navLabel>
+        <content src="Text/394.htm"/>
+      </navPoint>
+      <navPoint id="num_421" playOrder="421">
+        <navLabel>
+          <text>公仲數不信于諸侯</text>
+        </navLabel>
+        <content src="Text/395.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_422" playOrder="422">
+      <navLabel>
+        <text>卷二十七・韓策二</text>
+      </navLabel>
+      <content src="Text/396.htm"/>
+      <navPoint id="num_423" playOrder="423">
+        <navLabel>
+          <text>楚圍雍氏五月</text>
+        </navLabel>
+        <content src="Text/396.htm"/>
+      </navPoint>
+      <navPoint id="num_424" playOrder="424">
+        <navLabel>
+          <text>楚圍雍氏韓令泠向借救于秦</text>
+        </navLabel>
+        <content src="Text/397.htm"/>
+      </navPoint>
+      <navPoint id="num_425" playOrder="425">
+        <navLabel>
+          <text>公仲為韓魏易地</text>
+        </navLabel>
+        <content src="Text/398.htm"/>
+      </navPoint>
+      <navPoint id="num_426" playOrder="426">
+        <navLabel>
+          <text>錡宣之教韓王取秦</text>
+        </navLabel>
+        <content src="Text/399.htm"/>
+      </navPoint>
+      <navPoint id="num_427" playOrder="427">
+        <navLabel>
+          <text>襄陵之役</text>
+        </navLabel>
+        <content src="Text/400.htm"/>
+      </navPoint>
+      <navPoint id="num_428" playOrder="428">
+        <navLabel>
+          <text>公叔使馮君于秦</text>
+        </navLabel>
+        <content src="Text/401.htm"/>
+      </navPoint>
+      <navPoint id="num_429" playOrder="429">
+        <navLabel>
+          <text>謂公叔曰公欲得武遂于秦</text>
+        </navLabel>
+        <content src="Text/402.htm"/>
+      </navPoint>
+      <navPoint id="num_430" playOrder="430">
+        <navLabel>
+          <text>謂公叔曰乘舟</text>
+        </navLabel>
+        <content src="Text/403.htm"/>
+      </navPoint>
+      <navPoint id="num_431" playOrder="431">
+        <navLabel>
+          <text>齊令周最使鄭</text>
+        </navLabel>
+        <content src="Text/404.htm"/>
+      </navPoint>
+      <navPoint id="num_432" playOrder="432">
+        <navLabel>
+          <text>韓公叔與幾瑟爭國鄭強為楚王使于韓</text>
+        </navLabel>
+        <content src="Text/405.htm"/>
+      </navPoint>
+      <navPoint id="num_433" playOrder="433">
+        <navLabel>
+          <text>韓公叔與幾瑟爭國中庶子強謂太子</text>
+        </navLabel>
+        <content src="Text/406.htm"/>
+      </navPoint>
+      <navPoint id="num_434" playOrder="434">
+        <navLabel>
+          <text>齊明謂公叔</text>
+        </navLabel>
+        <content src="Text/407.htm"/>
+      </navPoint>
+      <navPoint id="num_435" playOrder="435">
+        <navLabel>
+          <text>公叔將殺幾瑟</text>
+        </navLabel>
+        <content src="Text/408.htm"/>
+      </navPoint>
+      <navPoint id="num_436" playOrder="436">
+        <navLabel>
+          <text>公叔且殺幾瑟</text>
+        </navLabel>
+        <content src="Text/409.htm"/>
+      </navPoint>
+      <navPoint id="num_437" playOrder="437">
+        <navLabel>
+          <text>謂新城君曰</text>
+        </navLabel>
+        <content src="Text/410.htm"/>
+      </navPoint>
+      <navPoint id="num_438" playOrder="438">
+        <navLabel>
+          <text>胡衍之出幾瑟于楚</text>
+        </navLabel>
+        <content src="Text/411.htm"/>
+      </navPoint>
+      <navPoint id="num_439" playOrder="439">
+        <navLabel>
+          <text>幾瑟亡之楚</text>
+        </navLabel>
+        <content src="Text/412.htm"/>
+      </navPoint>
+      <navPoint id="num_440" playOrder="440">
+        <navLabel>
+          <text>泠向謂韓咎</text>
+        </navLabel>
+        <content src="Text/413.htm"/>
+      </navPoint>
+      <navPoint id="num_441" playOrder="441">
+        <navLabel>
+          <text>楚令景鯉入韓</text>
+        </navLabel>
+        <content src="Text/414.htm"/>
+      </navPoint>
+      <navPoint id="num_442" playOrder="442">
+        <navLabel>
+          <text>韓咎立為君而未定</text>
+        </navLabel>
+        <content src="Text/415.htm"/>
+      </navPoint>
+      <navPoint id="num_443" playOrder="443">
+        <navLabel>
+          <text>史疾為韓使楚</text>
+        </navLabel>
+        <content src="Text/416.htm"/>
+      </navPoint>
+      <navPoint id="num_444" playOrder="444">
+        <navLabel>
+          <text>韓傀相韓</text>
+        </navLabel>
+        <content src="Text/417.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_445" playOrder="445">
+      <navLabel>
+        <text>卷二十八・韓策三</text>
+      </navLabel>
+      <content src="Text/418.htm"/>
+      <navPoint id="num_446" playOrder="446">
+        <navLabel>
+          <text>或謂韓公仲</text>
+        </navLabel>
+        <content src="Text/418.htm"/>
+      </navPoint>
+      <navPoint id="num_447" playOrder="447">
+        <navLabel>
+          <text>或謂公仲</text>
+        </navLabel>
+        <content src="Text/419.htm"/>
+      </navPoint>
+      <navPoint id="num_448" playOrder="448">
+        <navLabel>
+          <text>韓珉攻宋</text>
+        </navLabel>
+        <content src="Text/420.htm"/>
+      </navPoint>
+      <navPoint id="num_449" playOrder="449">
+        <navLabel>
+          <text>或謂韓王</text>
+        </navLabel>
+        <content src="Text/421.htm"/>
+      </navPoint>
+      <navPoint id="num_450" playOrder="450">
+        <navLabel>
+          <text>謂鄭王</text>
+        </navLabel>
+        <content src="Text/422.htm"/>
+      </navPoint>
+      <navPoint id="num_451" playOrder="451">
+        <navLabel>
+          <text>韓陽役于三川而欲歸</text>
+        </navLabel>
+        <content src="Text/423.htm"/>
+      </navPoint>
+      <navPoint id="num_452" playOrder="452">
+        <navLabel>
+          <text>秦大國</text>
+        </navLabel>
+        <content src="Text/424.htm"/>
+      </navPoint>
+      <navPoint id="num_453" playOrder="453">
+        <navLabel>
+          <text>張丑之合齊楚講于魏</text>
+        </navLabel>
+        <content src="Text/425.htm"/>
+      </navPoint>
+      <navPoint id="num_454" playOrder="454">
+        <navLabel>
+          <text>或謂韓相國</text>
+        </navLabel>
+        <content src="Text/426.htm"/>
+      </navPoint>
+      <navPoint id="num_455" playOrder="455">
+        <navLabel>
+          <text>公仲使韓珉之秦求武隧</text>
+        </navLabel>
+        <content src="Text/427.htm"/>
+      </navPoint>
+      <navPoint id="num_456" playOrder="456">
+        <navLabel>
+          <text>韓相公仲朋使韓珉之秦</text>
+        </navLabel>
+        <content src="Text/428.htm"/>
+      </navPoint>
+      <navPoint id="num_457" playOrder="457">
+        <navLabel>
+          <text>客卿為韓謂秦王</text>
+        </navLabel>
+        <content src="Text/429.htm"/>
+      </navPoint>
+      <navPoint id="num_458" playOrder="458">
+        <navLabel>
+          <text>韓珉相齊</text>
+        </navLabel>
+        <content src="Text/430.htm"/>
+      </navPoint>
+      <navPoint id="num_459" playOrder="459">
+        <navLabel>
+          <text>或謂山陽君</text>
+        </navLabel>
+        <content src="Text/431.htm"/>
+      </navPoint>
+      <navPoint id="num_460" playOrder="460">
+        <navLabel>
+          <text>趙魏攻華陽</text>
+        </navLabel>
+        <content src="Text/432.htm"/>
+      </navPoint>
+      <navPoint id="num_461" playOrder="461">
+        <navLabel>
+          <text>秦招楚而伐齊</text>
+        </navLabel>
+        <content src="Text/433.htm"/>
+      </navPoint>
+      <navPoint id="num_462" playOrder="462">
+        <navLabel>
+          <text>韓氏逐向晉于周</text>
+        </navLabel>
+        <content src="Text/434.htm"/>
+      </navPoint>
+      <navPoint id="num_463" playOrder="463">
+        <navLabel>
+          <text>張登請費緤</text>
+        </navLabel>
+        <content src="Text/435.htm"/>
+      </navPoint>
+      <navPoint id="num_464" playOrder="464">
+        <navLabel>
+          <text>安邑之御史死</text>
+        </navLabel>
+        <content src="Text/436.htm"/>
+      </navPoint>
+      <navPoint id="num_465" playOrder="465">
+        <navLabel>
+          <text>魏王為九里之盟</text>
+        </navLabel>
+        <content src="Text/437.htm"/>
+      </navPoint>
+      <navPoint id="num_466" playOrder="466">
+        <navLabel>
+          <text>建信君輕韓熙</text>
+        </navLabel>
+        <content src="Text/438.htm"/>
+      </navPoint>
+      <navPoint id="num_467" playOrder="467">
+        <navLabel>
+          <text>段產謂新城君</text>
+        </navLabel>
+        <content src="Text/439.htm"/>
+      </navPoint>
+      <navPoint id="num_468" playOrder="468">
+        <navLabel>
+          <text>段干越人謂新城君</text>
+        </navLabel>
+        <content src="Text/440.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_469" playOrder="469">
+      <navLabel>
+        <text>卷二十九・燕策一</text>
+      </navLabel>
+      <content src="Text/441.htm"/>
+      <navPoint id="num_470" playOrder="470">
+        <navLabel>
+          <text>蘇秦將為從北說燕文侯</text>
+        </navLabel>
+        <content src="Text/441.htm"/>
+      </navPoint>
+      <navPoint id="num_471" playOrder="471">
+        <navLabel>
+          <text>奉陽君李兌甚不取于蘇秦</text>
+        </navLabel>
+        <content src="Text/442.htm"/>
+      </navPoint>
+      <navPoint id="num_472" playOrder="472">
+        <navLabel>
+          <text>權之難燕再戰不勝</text>
+        </navLabel>
+        <content src="Text/443.htm"/>
+      </navPoint>
+      <navPoint id="num_473" playOrder="473">
+        <navLabel>
+          <text>燕文公時</text>
+        </navLabel>
+        <content src="Text/444.htm"/>
+      </navPoint>
+      <navPoint id="num_474" playOrder="474">
+        <navLabel>
+          <text>人有惡蘇秦于燕王者</text>
+        </navLabel>
+        <content src="Text/445.htm"/>
+      </navPoint>
+      <navPoint id="num_475" playOrder="475">
+        <navLabel>
+          <text>張儀為秦破從連橫謂燕王</text>
+        </navLabel>
+        <content src="Text/446.htm"/>
+      </navPoint>
+      <navPoint id="num_476" playOrder="476">
+        <navLabel>
+          <text>宮他為燕使魏</text>
+        </navLabel>
+        <content src="Text/447.htm"/>
+      </navPoint>
+      <navPoint id="num_477" playOrder="477">
+        <navLabel>
+          <text>蘇秦死其弟蘇代欲繼之</text>
+        </navLabel>
+        <content src="Text/448.htm"/>
+      </navPoint>
+      <navPoint id="num_478" playOrder="478">
+        <navLabel>
+          <text>燕王噲既立</text>
+        </navLabel>
+        <content src="Text/449.htm"/>
+      </navPoint>
+      <navPoint id="num_479" playOrder="479">
+        <navLabel>
+          <text>初蘇秦弟厲因燕質子而求見齊王</text>
+        </navLabel>
+        <content src="Text/450.htm"/>
+      </navPoint>
+      <navPoint id="num_480" playOrder="480">
+        <navLabel>
+          <text>燕昭王收破燕後即位</text>
+        </navLabel>
+        <content src="Text/451.htm"/>
+      </navPoint>
+      <navPoint id="num_481" playOrder="481">
+        <navLabel>
+          <text>齊伐宋宋急</text>
+        </navLabel>
+        <content src="Text/452.htm"/>
+      </navPoint>
+      <navPoint id="num_482" playOrder="482">
+        <navLabel>
+          <text>蘇代謂燕昭王</text>
+        </navLabel>
+        <content src="Text/453.htm"/>
+      </navPoint>
+      <navPoint id="num_483" playOrder="483">
+        <navLabel>
+          <text>燕王謂蘇代</text>
+        </navLabel>
+        <content src="Text/454.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_484" playOrder="484">
+      <navLabel>
+        <text>卷三十・燕策二</text>
+      </navLabel>
+      <content src="Text/455.htm"/>
+      <navPoint id="num_485" playOrder="485">
+        <navLabel>
+          <text>秦召燕王</text>
+        </navLabel>
+        <content src="Text/455.htm"/>
+      </navPoint>
+      <navPoint id="num_486" playOrder="486">
+        <navLabel>
+          <text>蘇秦說奉陽君合燕于趙以伐齊</text>
+        </navLabel>
+        <content src="Text/456.htm"/>
+      </navPoint>
+      <navPoint id="num_487" playOrder="487">
+        <navLabel>
+          <text>蘇秦為燕說齊</text>
+        </navLabel>
+        <content src="Text/457.htm"/>
+      </navPoint>
+      <navPoint id="num_488" playOrder="488">
+        <navLabel>
+          <text>蘇秦自齊使人謂燕昭王</text>
+        </navLabel>
+        <content src="Text/458.htm"/>
+      </navPoint>
+      <navPoint id="num_489" playOrder="489">
+        <navLabel>
+          <text>蘇秦自齊獻書于燕王</text>
+        </navLabel>
+        <content src="Text/459.htm"/>
+      </navPoint>
+      <navPoint id="num_490" playOrder="490">
+        <navLabel>
+          <text>陳翠合齊燕</text>
+        </navLabel>
+        <content src="Text/460.htm"/>
+      </navPoint>
+      <navPoint id="num_491" playOrder="491">
+        <navLabel>
+          <text>燕昭王且與天下伐齊</text>
+        </navLabel>
+        <content src="Text/461.htm"/>
+      </navPoint>
+      <navPoint id="num_492" playOrder="492">
+        <navLabel>
+          <text>燕饑趙將伐之</text>
+        </navLabel>
+        <content src="Text/462.htm"/>
+      </navPoint>
+      <navPoint id="num_493" playOrder="493">
+        <navLabel>
+          <text>昌國君樂毅為燕昭王合五國之兵而攻齊</text>
+        </navLabel>
+        <content src="Text/463.htm"/>
+      </navPoint>
+      <navPoint id="num_494" playOrder="494">
+        <navLabel>
+          <text>或獻書燕王</text>
+        </navLabel>
+        <content src="Text/464.htm"/>
+      </navPoint>
+      <navPoint id="num_495" playOrder="495">
+        <navLabel>
+          <text>客謂燕王</text>
+        </navLabel>
+        <content src="Text/465.htm"/>
+      </navPoint>
+      <navPoint id="num_496" playOrder="496">
+        <navLabel>
+          <text>趙且伐燕</text>
+        </navLabel>
+        <content src="Text/466.htm"/>
+      </navPoint>
+      <navPoint id="num_497" playOrder="497">
+        <navLabel>
+          <text>齊魏爭燕</text>
+        </navLabel>
+        <content src="Text/467.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_498" playOrder="498">
+      <navLabel>
+        <text>卷三十一・燕策三</text>
+      </navLabel>
+      <content src="Text/468.htm"/>
+      <navPoint id="num_499" playOrder="499">
+        <navLabel>
+          <text>齊韓魏共攻燕</text>
+        </navLabel>
+        <content src="Text/468.htm"/>
+      </navPoint>
+      <navPoint id="num_500" playOrder="500">
+        <navLabel>
+          <text>張丑為質于燕</text>
+        </navLabel>
+        <content src="Text/469.htm"/>
+      </navPoint>
+      <navPoint id="num_501" playOrder="501">
+        <navLabel>
+          <text>燕王喜使栗腹以百金為趙孝成王壽</text>
+        </navLabel>
+        <content src="Text/470.htm"/>
+      </navPoint>
+      <navPoint id="num_502" playOrder="502">
+        <navLabel>
+          <text>秦并趙北向迎燕</text>
+        </navLabel>
+        <content src="Text/471.htm"/>
+      </navPoint>
+      <navPoint id="num_503" playOrder="503">
+        <navLabel>
+          <text>燕太子丹質于秦亡歸</text>
+        </navLabel>
+        <content src="Text/472.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_504" playOrder="504">
+      <navLabel>
+        <text>卷三十二・宋、衞策</text>
+      </navLabel>
+      <content src="Text/473.htm"/>
+      <navPoint id="num_505" playOrder="505">
+        <navLabel>
+          <text>齊攻宋宋使臧子索救于荊</text>
+        </navLabel>
+        <content src="Text/473.htm"/>
+      </navPoint>
+      <navPoint id="num_506" playOrder="506">
+        <navLabel>
+          <text>公輸般為楚設機</text>
+        </navLabel>
+        <content src="Text/474.htm"/>
+      </navPoint>
+      <navPoint id="num_507" playOrder="507">
+        <navLabel>
+          <text>犀首伐黃</text>
+        </navLabel>
+        <content src="Text/475.htm"/>
+      </navPoint>
+      <navPoint id="num_508" playOrder="508">
+        <navLabel>
+          <text>梁王伐邯鄲</text>
+        </navLabel>
+        <content src="Text/476.htm"/>
+      </navPoint>
+      <navPoint id="num_509" playOrder="509">
+        <navLabel>
+          <text>謂大尹曰</text>
+        </navLabel>
+        <content src="Text/477.htm"/>
+      </navPoint>
+      <navPoint id="num_510" playOrder="510">
+        <navLabel>
+          <text>宋與楚為兄弟</text>
+        </navLabel>
+        <content src="Text/478.htm"/>
+      </navPoint>
+      <navPoint id="num_511" playOrder="511">
+        <navLabel>
+          <text>魏太子自將過宋外黃</text>
+        </navLabel>
+        <content src="Text/479.htm"/>
+      </navPoint>
+      <navPoint id="num_512" playOrder="512">
+        <navLabel>
+          <text>宋康王之時有雀生𪄟</text>
+        </navLabel>
+        <content src="Text/480.htm"/>
+      </navPoint>
+      <navPoint id="num_513" playOrder="513">
+        <navLabel>
+          <text>智伯欲伐衞</text>
+        </navLabel>
+        <content src="Text/481.htm"/>
+      </navPoint>
+      <navPoint id="num_514" playOrder="514">
+        <navLabel>
+          <text>智伯欲襲衞</text>
+        </navLabel>
+        <content src="Text/482.htm"/>
+      </navPoint>
+      <navPoint id="num_515" playOrder="515">
+        <navLabel>
+          <text>秦攻衞之蒲</text>
+        </navLabel>
+        <content src="Text/483.htm"/>
+      </navPoint>
+      <navPoint id="num_516" playOrder="516">
+        <navLabel>
+          <text>衞使客事魏</text>
+        </navLabel>
+        <content src="Text/484.htm"/>
+      </navPoint>
+      <navPoint id="num_517" playOrder="517">
+        <navLabel>
+          <text>衞嗣君病</text>
+        </navLabel>
+        <content src="Text/485.htm"/>
+      </navPoint>
+      <navPoint id="num_518" playOrder="518">
+        <navLabel>
+          <text>衞嗣君時胥靡逃之魏</text>
+        </navLabel>
+        <content src="Text/486.htm"/>
+      </navPoint>
+      <navPoint id="num_519" playOrder="519">
+        <navLabel>
+          <text>衞人迎新婦</text>
+        </navLabel>
+        <content src="Text/487.htm"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_520" playOrder="520">
+      <navLabel>
+        <text>卷三十三・中山策</text>
+      </navLabel>
+      <content src="Text/488.htm"/>
+      <navPoint id="num_521" playOrder="521">
+        <navLabel>
+          <text>魏文侯欲殘中山</text>
+        </navLabel>
+        <content src="Text/488.htm"/>
+      </navPoint>
+      <navPoint id="num_522" playOrder="522">
+        <navLabel>
+          <text>犀首立五王</text>
+        </navLabel>
+        <content src="Text/489.htm"/>
+      </navPoint>
+      <navPoint id="num_523" playOrder="523">
+        <navLabel>
+          <text>中山與燕趙為王</text>
+        </navLabel>
+        <content src="Text/490.htm"/>
+      </navPoint>
+      <navPoint id="num_524" playOrder="524">
+        <navLabel>
+          <text>司馬憙使趙</text>
+        </navLabel>
+        <content src="Text/491.htm"/>
+      </navPoint>
+      <navPoint id="num_525" playOrder="525">
+        <navLabel>
+          <text>司馬憙三相中山</text>
+        </navLabel>
+        <content src="Text/492.htm"/>
+      </navPoint>
+      <navPoint id="num_526" playOrder="526">
+        <navLabel>
+          <text>陰姬與江姬爭為后</text>
+        </navLabel>
+        <content src="Text/493.htm"/>
+      </navPoint>
+      <navPoint id="num_527" playOrder="527">
+        <navLabel>
+          <text>主父欲伐中山</text>
+        </navLabel>
+        <content src="Text/494.htm"/>
+      </navPoint>
+      <navPoint id="num_528" playOrder="528">
+        <navLabel>
+          <text>中山君饗都士</text>
+        </navLabel>
+        <content src="Text/495.htm"/>
+      </navPoint>
+      <navPoint id="num_529" playOrder="529">
+        <navLabel>
+          <text>樂羊為魏將</text>
+        </navLabel>
+        <content src="Text/496.htm"/>
+      </navPoint>
+      <navPoint id="num_530" playOrder="530">
+        <navLabel>
+          <text>昭王既息民繕兵</text>
+        </navLabel>
+        <content src="Text/497.htm"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

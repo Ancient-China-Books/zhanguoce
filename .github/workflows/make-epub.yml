@@ -1,0 +1,61 @@
+name: make-epub
+
+on:
+  push:
+    branches: [ "master" ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install zip
+        run: sudo apt-get install -y zip
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Build
+        run: |
+          zip -r zhanguoce-vst.epub META-INF mimetype OEBPS
+          sed -i 's/vertical-rl/horizontal-tb/g' OEBPS/Styles/*.css
+          sed -i 's/page-progression-direction="rtl"/page-progression-direction="ltr"/g' OEBPS/content.opf
+          zip -r zhanguoce.epub META-INF mimetype OEBPS
+      - uses: "marvinpinto/action-automatic-releases@latest"
+        with:
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          automatic_release_tag: "latest"
+          prerelease: false
+          title: "Snapshot build"
+          files: |
+            *.epub
+      - name: Sync to Google drive
+        uses: wei/rclone@v1
+        env:
+         RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
+         RCLONE_CONFIG_PASS: ${{ secrets.RCLONE_CONFIG_PASS }}
+        with:
+          args: copyto zhanguoce.epub gdrive:/古籍共享电子书计划/戰國策.epub
+      - name: Sync vst to Google drive
+        uses: wei/rclone@v1
+        env:
+         RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
+         RCLONE_CONFIG_PASS: ${{ secrets.RCLONE_CONFIG_PASS }}
+        with:
+          args: copyto zhanguoce-vst.epub gdrive:/古籍共享电子书计划/戰國策-豎排.epub
+      - name: Sync to Freemdict
+        uses: wei/rclone@v1
+        env:
+         RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
+         RCLONE_CONFIG_PASS: ${{ secrets.RCLONE_CONFIG_PASS }}
+        with:
+          args: copyto --ignore-errors zhanguoce.epub freemdict:/古籍共享电子书计划/戰國策.epub
+      - name: Sync vst to Freemdict
+        uses: wei/rclone@v1
+        env:
+         RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
+         RCLONE_CONFIG_PASS: ${{ secrets.RCLONE_CONFIG_PASS }}
+        with:
+          args: copyto --ignore-errors zhanguoce-vst.epub freemdict:/古籍共享电子书计划/戰國策-豎排.epub
+
+
